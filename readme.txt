@@ -53,12 +53,12 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Army of Darkness TC ..................................... aod_wide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_wide.wad
                        Back to Saturn X (Ep.2) ................................. btsx2_wide.wad
-                       Batman Doom ............................................. batman_wide.wad
+                       Batman Doom ............................................. batman_uwide.wad
                        Beyond Reality .......................................... beyondreality_wide.wad
                        Bloodstain .............................................. bstain_wide.wad
                        Bloody Steel ............................................ bloodysteel_wide.wad
                        Chosen .................................................. chosen_wide.wad
-                       Community Chest 1-4 ..................................... cchest_wide.wad **
+                       Community Chest 1-4 ..................................... cchest_uwide.wad **
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_wide.wad
                        Descension .............................................. descension_wide.wad
 		       Dimension of the Boomed ................................. dotb_wide.wad
@@ -166,7 +166,7 @@ Version 2203 (Mar 10, 2022)
 ---------------------------
 - Added: 25 Years on Earth, 2048 Units of /vr/, Akeldama, Doom 64 for Doom II, Eviternity,
          Lost Civilization, Lullaby, Requiem, Slaughterfest 2012, Valiant
-- Updated: Community Chest 1-4 (by Kinsie), Memento Mori II (DEHACKED added)
+- Updated: Batman Doom (Ultrawide), Community Chest 1-4 (Ultrawide), Memento Mori II (DEHACKED)
 
 Version 1808 (Aug 23, 2018)
 ---------------------------

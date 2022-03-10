@@ -166,7 +166,8 @@ Version 2203 (Mar 10, 2022)
 ---------------------------
 - Added: 25 Years on Earth, 2048 Units of /vr/, Akeldama, Doom 64 for Doom II, Eviternity,
          Lost Civilization, Lullaby, Requiem, Slaughterfest 2012, Valiant
-- Updated: Batman Doom (Ultrawide), Community Chest 1-4 (Ultrawide), Memento Mori II (DEHACKED)
+- Updated: Batman Doom (Ultrawide), Community Chest 1-4 (Ultrawide), 
+           Memento Mori II (Ultrawide + DEHACKED)
 
 Version 1808 (Aug 23, 2018)
 ---------------------------

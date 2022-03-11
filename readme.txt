@@ -1,8 +1,8 @@
 ==============================================================================================================
-Advanced engine needed  : Limit-removing (tested with Zdoom/GZDoom)
+Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : PWAD Widescreen Statusbars for ZDoom (v22XX)
-Filename             : ZDOOM_WIDE22XX.ZIP
+Title                : Widescreen Statusbars (v22XX)
+Filename             : DOOM_WIDE22XX.ZIP
 
 Release date         : 2022/XX/XX
 Author               : NightFright (main author)
@@ -30,99 +30,107 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                           "DWANGO5", "Fava Beans", "GothicDM 1+2", "Hell Revealed", "Herian 2", 
                           "Jarjar's Last Pineapple Fritter", "Odessa 14", "Polygon Base", "RTC3057", 
                           "The Sky May Be", "The Trooper's Playground", "STRAIN"
-                       6) Contributions by others:
+		       6) Contributions by ragu:
+			  "A Fistful of Doom", "All Hell is Breaking Loose", "Obituary", 
+                          "Japanese Community Project"
+                       7) Contributions by others:
                           "Beyond Reality", "Bloody Steel", "Descension", "Doom64 for Doom II",
                           "JCP", "Scythe II", "UAC Ultra", "ZBlood", "2048 Units of /vr/", "Eviternity", 
                           "Valiant", "Slaughterfest 2012", "Lullaby", "Lost Civilization", "Requiem",
 	                  "Community Chest"
 
-                       Chex Quest 3 ............................................ chex_wide.wad
-		       Doom/Doom II ............................................ doom_wide.wad
-                       HacX .................................................... hacx_wide.wad
-                       Harmony ................................................. harm1_wide.wad
-                       The Adventures of Square ................................ square1_wide.wad
-                       REKKR ................................................... rekkr_uwide.wad
+                       Chex Quest 3 ............................................ chex_uwide.wad
+		       Doom/Doom II ............................................ doom_uwide.wad
+		       Freedoom ................................................ freedm_uwide.wad
+                       HacX .................................................... hacx_uwide.wad
+                       Harmony ................................................. harm1_uwide.wad
+		       REKKR ................................................... rekkr_uwide.wad
+                       The Adventures of Square ................................ square1_uwide.wad
 
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
-                       Action Doom ............................................. action_wide.wad
+                       A Fistful of Doom ....................................... fistful_uwide.wad
+                       Action Doom ............................................. action_uwide.wad
                        Akeldama ................................................ akeldama_wide.wad
-                       Alien Vendetta .......................................... av_fix.wad *
-                       Aliens TC ............................................... aliens_wide.wad
-                       Ancient Aliens .......................................... aaliens_wide.wad
-                       Army of Darkness TC ..................................... aod_wide.wad
-                       Back to Saturn X (Ep.1) ................................. btsx1_wide.wad
-                       Back to Saturn X (Ep.2) ................................. btsx2_wide.wad
+                       Alien Vendetta .......................................... av_uwide_fix.wad *
+                       Aliens TC ............................................... aliens_uwide.wad
+                       All Hell is Breaking Loose .............................. allhell_uwide.wad
+                       Ancient Aliens .......................................... aaliens_uwide.wad
+                       Army of Darkness TC ..................................... aod_uwide.wad
+                       Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
+                       Back to Saturn X (Ep.2) ................................. btsx2_uwide.wad
                        Batman Doom ............................................. batman_uwide.wad
-                       Beyond Reality .......................................... beyondreality_wide.wad
-                       Bloodstain .............................................. bstain_wide.wad
-                       Bloody Steel ............................................ bloodysteel_wide.wad
-                       Chosen .................................................. chosen_wide.wad
+                       Beyond Reality .......................................... beyondreality_uwide.wad
+                       Bloodstain .............................................. bstain_uwide.wad
+                       Bloody Steel ............................................ bloodysteel_uwide.wad
+                       Chosen .................................................. chosen_uwide.wad
                        Community Chest 1-4 ..................................... cchest_uwide.wad **
-                       ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_wide.wad
-                       Descension .............................................. descension_wide.wad
-		       Dimension of the Boomed ................................. dotb_wide.wad
+                       ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_uwide.wad
+                       Descension .............................................. descension_uwide.wad
+		       Dimension of the Boomed ................................. dotb_uwide.wad
                        Doom64 for Doom II ...................................... d64d2_wide.wad
-		       Dwango 5 ................................................ dwg5_wide.wad
+		       Dwango 5 ................................................ dwg5_uwide.wad
                        Eviternity .............................................. eviternity_wide.wad
-                       Fava Beans .............................................. fava_wide.wad
-                       GothicDM 1+2 ............................................ gdm_wide.wad
-                       Dark7 + Mission Pack .................................... dark7_fix.wad *
-		       Deus Vult II / Vanguard ................................. vngrd_wide.wad      
-                       Dystopia 3 .............................................. dyst3_fix.wad *           
-                       Epic 2 .................................................. epic2_wide.wad
-                       Endless Torture ......................................... et_wide.wad
-                       Eternal Doom III ........................................ etrn_fix.wad *
-                       Fragport ................................................ fragport_fix.wad *
-                       Freedoom ................................................ freedm_wide.wad
-                       Hellbound ............................................... hellbnd_wide.wad
-                       Hell Revealed ........................................... hellrev_wide.wad
-                       H2H-Xmas ................................................ h2h_fix.wad *
-                       Herian 2 ................................................ herian2_wide.wad
-                       Icarus: Alien Vanguard .................................. icar_fix.wad *
-                       Interception ............................................ intercep_wide.wad
-                       Jarjar's Last P. Fritter ................................ jarjar_wide.wad
-                       Jenesis ................................................. jns_wide.wad
+                       Fava Beans .............................................. fava_uwide.wad
+                       GothicDM 1+2 ............................................ gdm_uwide.wad
+                       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
+		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad      
+                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
+                       Epic 2 .................................................. epic2_uwide.wad
+                       Endless Torture ......................................... et_uwide.wad
+                       Eternal Doom III ........................................ etrn_uwide_fix.wad *
+                       Fragport ................................................ fragport_uwide_fix.wad *
+                       Hellbound ............................................... hellbnd_uwide.wad
+                       Hell Revealed ........................................... hellrev_uwide.wad
+                       H2H-Xmas ................................................ h2h_uwide_fix.wad *
+                       Herian 2 ................................................ herian2_uwide.wad
+                       Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
+                       Interception ............................................ intercep_uwide.wad
+                       Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
+                       Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
+                       Jenesis ................................................. jns_uwide.wad
                        JCP ..................................................... jcp_wide.wad
-                       Last Day on Earth ....................................... lastep1_fix.wad *
+                       Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
-                       Memento Mori II ......................................... mm2_fix.wad *
-		       Moonblood ............................................... moonbld_wide.wad
-                       Mutiny .................................................. mutiny_wide.wad
-		       Nihility: Infinite Teeth ................................ nihility_wide.wad
-                       No End In Sight ......................................... neis_wide.wad
-                       Odessa14 ................................................ odss_wide.wad
-                       Phobos: Relive the Nightmare ............................ relive_fix.wad *
+                       Memento Mori II ......................................... mm2_uwide_fix.wad *
+		       Moonblood ............................................... moonbld_uwide.wad
+                       Mutiny .................................................. mutiny_uwide.wad
+		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
+                       No End In Sight ......................................... neis_uwide.wad
+                       Obituary ................................................ obit_uwide.wad
+                       Odessa14 ................................................ odss_uwide.wad
+                       Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Playstation Doom TC ..................................... psx_wide.wad
-                       Plutonia 2 .............................................. pl2_wide.wad
-                       Plutonia Revisited ...................................... prcp_wide.wad
-                       Polygon Base ............................................ poly_wide.wad
-                       Rage Doom ............................................... rage20_fix.wad *
+                       Plutonia 2 .............................................. pl2_uwide.wad
+                       Plutonia Revisited ...................................... prcp_uwide.wad
+                       Polygon Base ............................................ poly_uwide.wad
+                       Rage Doom ............................................... rage20_uwide_fix.wad *
                        Requiem ................................................. requiem_wide.wad
-                       Reverie ................................................. rev_wide.wad
-                       RTC3057 ................................................. rtc3057_wide.wad
-                       Scythe II ............................................... scythe2_wide.wad
-                       Shadow of the Wool Ball ................................. woolball_wide.wad
+                       Reverie ................................................. rev_uwide.wad
+                       RTC3057 ................................................. rtc3057_uwide.wad
+                       Scythe II ............................................... scythe2_uwide.wad
+                       Shadow of the Wool Ball ................................. woolball_uwide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
-                       Speed of Doom ........................................... sodfnl_wide.wad
-                       STRAIN .................................................. strain_wide.wad 
-                       The Adventures of Sub ................................... sub_fix.wad *
-                       The Darkening Episode 1 ................................. darken_fix.wad *
-                       The Darkening Episode 2 ................................. darken2_fix.wad *
-                       The Sky May Be .......................................... sky_wide.wad
-                       The Trooper's Playground ................................ trprplay_wide.wad
-                       THT: Threnody ........................................... tht_wide.wad
-		       TNT: Revilution ......................................... tntr_wide.wad
-                       UAC Ultra ............................................... uac-ultra_wide.wad
-                       Ultimate Torment & Torture .............................. utnt_wide.wad
+                       Speed of Doom ........................................... sodfnl_uwide.wad
+                       STRAIN .................................................. strain_uwide.wad 
+                       The Adventures of Sub ................................... sub_uwide_fix.wad *
+                       The Darkening Episode 1 ................................. darken_uwide_fix.wad *
+                       The Darkening Episode 2 ................................. darken2_uwide_fix.wad *
+                       The Sky May Be .......................................... sky_uwide.wad
+                       The Trooper's Playground ................................ ttp_uwide.wad
+                       THT: Threnody ........................................... tht_uwide.wad
+		       TNT: Revilution ......................................... tntr_uwide.wad
+                       UAC Ultra ............................................... uac-ultra_uwide.wad
+                       Ultimate Torment & Torture .............................. utnt_uwide.wad
                        Valiant ................................................. valiant_wide.wad
-                       ZBlood .................................................. zblood_wide.wad
+                       ZBlood .................................................. zblood_uwide.wad
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
                        **  Works for all Community Chest releases (if loaded last)
 
 Additional Credits to: MG_Man (DOOM widescreen HUD)
+                       ragu (ultrawide versions)
 
 ==============================================================================================================
 * What is included *
@@ -141,7 +149,7 @@ Other files required : IWADs/Doom II PWADs fitting to the statusbars
 * Play Information *
 
 Game                 : Doom, Doom II, Chex Quest 3, Freedoom, HacX, 
-                       Harmony, The Adventures of Square, Rekkr
+                       Harmony, The Adventures of Square, REKKR
 Map #                : None
 Single Player        : No
 Coop 2-4 Player      : No
@@ -156,15 +164,17 @@ Base                 : Original graphics from IWADs/PWADs
 Build Time           : 24+ hours
 Editor(s) used       : XWE, paint.net, Bitmap Font Writer
 Known Bugs           : None
-Will Not Run With    : Vanilla/Chocolate Doom (not compatible)
-Tested With          : GZDoom
+Will Not Run With    : Vanilla/Chocolate Doom
+Tested With          : GZDoom, International Doom
 
 
 * Changelog *
 
 Version 22XX (XXX XX, 2022)
 ---------------------------
-- Updated: REKKR (Ultrawide, taken from commercial release), Valiant
+- Added: A Fistful of Doom, All Hell is Breaking Loose, Obituary, Japanese Community Project
+- Updated: 59 statusbars replaced with ultrawide versions (made by ragu), 
+           REKKR (Ultrawide, taken from commercial release), Valiant
 
 Version 2203 (Mar 10, 2022)
 ---------------------------

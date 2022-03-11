@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing (tested with Zdoom/GZDoom)
 ==============================================================================================================
-Title                : PWAD Widescreen Statusbars for ZDoom (v2203)
-Filename             : ZDOOM_WIDE2203.ZIP
+Title                : PWAD Widescreen Statusbars for ZDoom (v22XX)
+Filename             : ZDOOM_WIDE22XX.ZIP
 
-Release date         : 2022/03/10
+Release date         : 2022/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -41,7 +41,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        HacX .................................................... hacx_wide.wad
                        Harmony ................................................. harm1_wide.wad
                        The Adventures of Square ................................ square1_wide.wad
-                       REKKR ................................................... rekkr_wide.wad
+                       REKKR ................................................... rekkr_uwide.wad
 
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
@@ -161,6 +161,10 @@ Tested With          : GZDoom
 
 
 * Changelog *
+
+Version 22XX (XXX XX, 2022)
+---------------------------
+- Updated: REKKR (Ultrawide, taken from commercial release)
 
 Version 2203 (Mar 10, 2022)
 ---------------------------

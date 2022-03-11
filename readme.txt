@@ -164,7 +164,7 @@ Tested With          : GZDoom
 
 Version 22XX (XXX XX, 2022)
 ---------------------------
-- Updated: REKKR (Ultrawide, taken from commercial release)
+- Updated: REKKR (Ultrawide, taken from commercial release), Valiant
 
 Version 2203 (Mar 10, 2022)
 ---------------------------

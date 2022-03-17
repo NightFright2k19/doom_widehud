@@ -113,7 +113,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Shadow of the Wool Ball ................................. woolball_uwide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
                        Speed of Doom ........................................... sodfnl_uwide.wad
-                       STRAIN .................................................. strain_uwide.wad 
+                       STRAIN .................................................. strain_uwide.wad
+                       Sunder .................................................. sunder_wide.wad
                        The Adventures of Sub ................................... sub_uwide_fix.wad *
                        The Darkening Episode 1 ................................. darken_uwide_fix.wad *
                        The Darkening Episode 2 ................................. darken2_uwide_fix.wad *
@@ -172,7 +173,8 @@ Tested With          : GZDoom, International Doom
 
 Version 22XX (XXX XX, 2022)
 ---------------------------
-- Added: A Fistful of Doom, All Hell is Breaking Loose, Obituary, Japanese Community Project
+- Added: A Fistful of Doom, All Hell is Breaking Loose, Obituary, Japanese Community Project,
+         Sunder
 - Updated: 59 statusbars replaced with ultrawide versions (made by ragu), 
            REKKR (Ultrawide, taken from commercial release), Valiant
 

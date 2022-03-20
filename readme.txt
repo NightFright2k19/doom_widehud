@@ -56,7 +56,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Aliens TC ............................................... aliens_uwide.wad
                        All Hell is Breaking Loose .............................. allhell_uwide.wad
                        Ancient Aliens .......................................... aaliens_uwide.wad
-                       Army of Darkness TC ..................................... aod_uwide.wad
+                       Antaresian Reliquary .................................... antareq_wide.wad
+		       Army of Darkness TC ..................................... aod_uwide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
                        Back to Saturn X (Ep.2) ................................. btsx2_uwide.wad
                        Batman Doom ............................................. batman_uwide.wad
@@ -173,8 +174,8 @@ Tested With          : GZDoom, International Doom
 
 Version 22XX (XXX XX, 2022)
 ---------------------------
-- Added: A Fistful of Doom, All Hell is Breaking Loose, Obituary, Japanese Community Project,
-         Sunder
+- Added: A Fistful of Doom, All Hell is Breaking Loose, Antaresian Reliquary, Obituary, 
+         Japanese Community Project, Sunder
 - Updated: 59 statusbars replaced with ultrawide versions (made by ragu), 
            REKKR (Ultrawide, taken from commercial release), Valiant
 

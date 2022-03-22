@@ -176,7 +176,7 @@ Version 22XX (XXX XX, 2022)
 ---------------------------
 - Added: A Fistful of Doom, All Hell is Breaking Loose, Antaresian Reliquary, Obituary, 
          Japanese Community Project, Sunder
-- Updated: 59 statusbars replaced with ultrawide versions (made by ragu), 
+- Updated: 59 statusbars replaced with ultrawide versions (made by ragu), Akeldama, 
            REKKR (Ultrawide, taken from commercial release), Valiant
 
 Version 2203 (Mar 10, 2022)

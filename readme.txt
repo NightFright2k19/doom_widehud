@@ -56,6 +56,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Aliens TC ............................................... aliens_uwide.wad
                        All Hell is Breaking Loose .............................. allhell_uwide.wad
                        Ancient Aliens .......................................... aaliens_uwide.wad
+                       Anomaly Report .......................................... ar_wide.wad
                        Antaresian Reliquary .................................... antareq_wide.wad
 		       Army of Darkness TC ..................................... aod_uwide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
@@ -101,6 +102,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        No End In Sight ......................................... neis_uwide.wad
                        Obituary ................................................ obit_uwide.wad
                        Odessa14 ................................................ odss_uwide.wad
+		       Ozonia .................................................. ozonia_wide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
@@ -123,6 +125,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        The Trooper's Playground ................................ ttp_uwide.wad
                        THT: Threnody ........................................... tht_uwide.wad
 		       TNT: Revilution ......................................... tntr_uwide.wad
+                       TNT 2: Devilution ....................................... tnt2_wide.wad
                        UAC Ultra ............................................... uac-ultra_uwide.wad
                        Ultimate Torment & Torture .............................. utnt_uwide.wad
                        Valiant ................................................. valiant_wide.wad
@@ -174,8 +177,8 @@ Tested With          : GZDoom, International Doom
 
 Version 22XX (XXX XX, 2022)
 ---------------------------
-- Added: A Fistful of Doom, All Hell is Breaking Loose, Antaresian Reliquary, Obituary, 
-         Japanese Community Project, Sunder
+- Added: A Fistful of Doom, All Hell is Breaking Loose, Anomaly Report, Antaresian Reliquary,
+         Obituary, Ozonia, Japanese Community Project, Sunder, TNT2: Devilution
 - Updated: 59 statusbars replaced with ultrawide versions (made by ragu), Akeldama, 
            REKKR (Ultrawide, taken from commercial release), Valiant
 

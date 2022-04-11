@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v22XX)
-Filename             : DOOM_WIDE22XX.ZIP
+Title                : Widescreen Statusbars (v2204)
+Filename             : DOOM_WIDE2204.ZIP
 
-Release date         : 2022/XX/XX
+Release date         : 2022/04/11
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -92,6 +92,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
                        JCP ..................................................... jcp_wide.wad
+	               Judgment ................................................ judgment_wide.wad
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
@@ -175,10 +176,10 @@ Tested With          : GZDoom, International Doom
 
 * Changelog *
 
-Version 22XX (XXX XX, 2022)
----------------------------
+Version 2204 (Apr 4, 2022)
+--------------------------
 - Added: A Fistful of Doom, All Hell is Breaking Loose, Anomaly Report, Antaresian Reliquary,
-         Obituary, Ozonia, Japanese Community Project, Sunder, TNT2: Devilution
+         Obituary, Ozonia, Japanese Community Project, Judgment, Sunder, TNT2: Devilution
 - Updated: 59 statusbars replaced with ultrawide versions (made by ragu), Akeldama, 
            REKKR (Ultrawide, taken from commercial release), Valiant
 

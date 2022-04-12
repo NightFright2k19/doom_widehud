@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2204)
-Filename             : DOOM_WIDE2204.ZIP
+Title                : Widescreen Statusbars (v22xx)
+Filename             : DOOM_WIDE22xx.ZIP
 
-Release date         : 2022/04/11
+Release date         : 2022/xx/xx
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -70,6 +70,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_uwide.wad
                        Descension .............................................. descension_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
+		       Dimensions of Time ...................................... dot_wide.wad
                        Doom64 for Doom II ...................................... d64d2_wide.wad
 		       Dwango 5 ................................................ dwg5_uwide.wad
                        Eviternity .............................................. eviternity_wide.wad
@@ -171,10 +172,14 @@ Build Time           : 24+ hours
 Editor(s) used       : XWE, paint.net, Bitmap Font Writer
 Known Bugs           : None
 Will Not Run With    : Vanilla/Chocolate Doom
-Tested With          : GZDoom, International Doom
+Tested With          : GZDoom, Woof!, Crispy Doom
 
 
 * Changelog *
+
+Version 22xx (xxx x, 2022)
+--------------------------
+- Added: Dimensions of Time
 
 Version 2204 (Apr 4, 2022)
 --------------------------

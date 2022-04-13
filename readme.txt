@@ -180,6 +180,7 @@ Tested With          : GZDoom, Woof!, Crispy Doom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Dimensions of Time
+- Updated: Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)
 --------------------------

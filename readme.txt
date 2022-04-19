@@ -47,6 +47,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       REKKR ................................................... rekkr_uwide.wad
                        The Adventures of Square ................................ square1_uwide.wad
 
+		       10-Day Vacation ......................................... dbp27_wide.wad
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
                        A Fistful of Doom ....................................... fistful_uwide.wad
@@ -131,6 +132,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        UAC Ultra ............................................... uac-ultra_uwide.wad
                        Ultimate Torment & Torture .............................. utnt_uwide.wad
                        Valiant ................................................. valiant_wide.wad
+		       Valiant: Vaccinated Edition ............................. valve_wide.wad
                        ZBlood .................................................. zblood_uwide.wad
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
@@ -179,7 +181,7 @@ Tested With          : GZDoom, Woof!, Crispy Doom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: Dimensions of Time
+- Added: 10-Day Vacation, Dimensions of Time, Valiant: Vaccinated Edition
 - Updated: Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

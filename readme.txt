@@ -67,7 +67,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Bloodstain .............................................. bstain_uwide.wad
                        Bloody Steel ............................................ bloodysteel_uwide.wad
                        Chosen .................................................. chosen_uwide.wad
-                       Community Chest 1-4 ..................................... cchest_uwide.wad **
+                       Community Chest 1-4 ..................................... cchest_wide.wad **
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_uwide.wad
                        Descension .............................................. descension_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
@@ -182,7 +182,7 @@ Tested With          : GZDoom, Woof!, Crispy Doom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: 10-Day Vacation, Dimensions of Time, Valiant: Vaccinated Edition
-- Updated: Judgment (-25% brightness for better contrast/legibility)
+- Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)
 --------------------------

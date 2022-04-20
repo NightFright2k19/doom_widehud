@@ -22,7 +22,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        3) "H2H-Xmas" contains all-new storyline by NightFright.
  		       4) "Eternal Doom III" contains all-new storyline by NightFright. 
                           How to run with ZDoom:
-			     > Put ETERNALL.WAD and ETRN_FIX.WAD into root dir.
+			     > Put ETERNALL.WAD and ETRN_UWIDE_FIX.WAD into root dir.
 			     > Put CSWEEPER.WAD and CREDITS.WAD into "maps" subdir.
 			     > Zip everything and name the file e.g. ETERNAL.PK3.
                        5) Contributions by PSTrooper:
@@ -67,7 +67,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Bloodstain .............................................. bstain_uwide.wad
                        Bloody Steel ............................................ bloodysteel_uwide.wad
                        Chosen .................................................. chosen_uwide.wad
-                       Community Chest 1-4 ..................................... cchest_wide.wad **
+                       Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_uwide.wad
                        Descension .............................................. descension_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
@@ -117,6 +117,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        RTC3057 ................................................. rtc3057_uwide.wad
                        Scythe II ............................................... scythe2_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad
+		       Sinergy ................................................. sinergy_wide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
                        Speed of Doom ........................................... sodfnl_uwide.wad
                        STRAIN .................................................. strain_uwide.wad
@@ -136,7 +137,6 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        ZBlood .................................................. zblood_uwide.wad
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
-                       **  Works for all Community Chest releases (if loaded last)
 
 Additional Credits to: MG_Man (DOOM widescreen HUD)
                        ragu (ultrawide versions)
@@ -174,14 +174,14 @@ Build Time           : 24+ hours
 Editor(s) used       : XWE, paint.net, Bitmap Font Writer
 Known Bugs           : None
 Will Not Run With    : Vanilla/Chocolate Doom
-Tested With          : GZDoom, Woof!, Crispy Doom
+Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Sinergy, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

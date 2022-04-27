@@ -80,9 +80,10 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad      
                        Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
-                       Epic 2 .................................................. epic2_uwide.wad
                        Endless Torture ......................................... et_uwide.wad
+                       Epic 2 .................................................. epic2_uwide.wad
                        Eternal Doom III ........................................ etrn_uwide_fix.wad *
+		       Exomoon ................................................. exomoon_wide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
@@ -181,7 +182,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Sinergy, Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Sinergy, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

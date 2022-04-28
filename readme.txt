@@ -100,6 +100,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
                        Memento Mori II ......................................... mm2_uwide_fix.wad *
+		       Monument ................................................ monument_wide.wad
 		       Moonblood ............................................... moonbld_uwide.wad
                        Mutiny .................................................. mutiny_uwide.wad
 		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
@@ -133,6 +134,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        TNT 2: Devilution ....................................... tnt2_wide.wad
                        UAC Ultra ............................................... uac-ultra_uwide.wad
                        Ultimate Torment & Torture .............................. utnt_uwide.wad
+		       Uprising ................................................ uprising_wide.wad
                        Valiant ................................................. valiant_wide.wad
 		       Valiant: Vaccinated Edition ............................. valve_wide.wad
                        ZBlood .................................................. zblood_uwide.wad
@@ -182,7 +184,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Sinergy, Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Monument, Sinergy, Uprising,
+         Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

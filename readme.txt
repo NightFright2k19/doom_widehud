@@ -85,6 +85,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Eternal Doom III ........................................ etrn_uwide_fix.wad *
 		       Exomoon ................................................. exomoon_wide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
+		       Hadephobia .............................................. h_phobia_wide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
@@ -184,8 +185,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Monument, Sinergy, Uprising,
-         Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Hadephobia, Monument, Sinergy,
+         Uprising, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

@@ -78,7 +78,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Fava Beans .............................................. fava_uwide.wad
                        GothicDM 1+2 ............................................ gdm_uwide.wad
                        Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
-		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad      
+		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
+		       Doom II: Flashback to Hell .............................. fth666_wide.wad    
                        Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
@@ -186,8 +187,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Hadephobia, Mayan Mishap, Monument,
-         Sinergy, Uprising, Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Doom II: Flashback to Hell, Exomoon, Hadephobia,
+         Mayan Mishap, Monument, Sinergy, Uprising, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

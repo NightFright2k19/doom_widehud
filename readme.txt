@@ -82,7 +82,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
-                       Eternal Doom III ........................................ etrn_uwide_fix.wad *
+                       Eternal Doom III / MAYhem 2048 .......................... etrn_uwide_fix.wad *
 		       Exomoon ................................................. exomoon_wide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
 		       Hadephobia .............................................. h_phobia_wide.wad
@@ -100,6 +100,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
+		       Mayan Mishap ............................................ t-maya_wide.wad
                        Memento Mori II ......................................... mm2_uwide_fix.wad *
 		       Monument ................................................ monument_wide.wad
 		       Moonblood ............................................... moonbld_uwide.wad
@@ -185,8 +186,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Hadephobia, Monument, Sinergy,
-         Uprising, Valiant: Vaccinated Edition
+- Added: 10-Day Vacation, Dimensions of Time, Exomoon, Hadephobia, Mayan Mishap, Monument,
+         Sinergy, Uprising, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

@@ -93,6 +93,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Herian 2 ................................................ herian2_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
+		       Irkalla ................................................. irkalla_wide.wad
                        Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
@@ -111,6 +112,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Obituary ................................................ obit_uwide.wad
                        Odessa14 ................................................ odss_uwide.wad
 		       Ozonia .................................................. ozonia_wide.wad
+		       Pagodia ................................................. pagodia_wide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
@@ -188,7 +190,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: 10-Day Vacation, Dimensions of Time, Doom II: Flashback to Hell, Exomoon, Hadephobia,
-         Mayan Mishap, Monument, Sinergy, Uprising, Valiant: Vaccinated Edition
+         Irkalla, Mayan Mishap, Monument, Pagodia, Sinergy, Uprising, Valiant: Vaccinated Edition
 - Updated: Community Chest 1-4, Judgment (-25% brightness for better contrast/legibility)
 
 Version 2204 (Apr 4, 2022)

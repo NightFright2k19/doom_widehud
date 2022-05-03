@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v22xx)
-Filename             : DOOM_WIDE22xx.ZIP
+Title                : Widescreen Statusbars (v2205)
+Filename             : DOOM_WIDE2205.ZIP
 
-Release date         : 2022/xx/xx
+Release date         : 2022/05/03
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -187,7 +187,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 22xx (xxx x, 2022)
+Version 2205 (May 3, 2022)
 --------------------------
 - Added: 10-Day Vacation, Dimensions of Time, Doom II: Flashback to Hell, Exomoon, Hadephobia,
          Irkalla, Mayan Mishap, Monument, Pagodia, Sinergy, Uprising, Valiant: Vaccinated Edition

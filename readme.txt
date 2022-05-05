@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2205)
-Filename             : DOOM_WIDE2205.ZIP
+Title                : Widescreen Statusbars (v22xx)
+Filename             : DOOM_WIDE22xx.ZIP
 
-Release date         : 2022/05/03
+Release date         : 2022/xx/xx
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -51,6 +51,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
                        A Fistful of Doom ....................................... fistful_uwide.wad
+		       Abandon ................................................. abandon_wide.wad
                        Action Doom ............................................. action_uwide.wad
                        Akeldama ................................................ akeldama_wide.wad
                        Alien Vendetta .......................................... av_uwide_fix.wad *
@@ -68,7 +69,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Bloody Steel ............................................ bloodysteel_uwide.wad
                        Chosen .................................................. chosen_uwide.wad
                        Community Chest 1-4 ..................................... cchest_wide.wad
-                       ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Exluder ... concerned_uwide.wad
+                       ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
+		       DBP 47: Dreamcatcher Apparatus .......................... dbp_47_wide.wad
                        Descension .............................................. descension_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
@@ -113,6 +115,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Odessa14 ................................................ odss_uwide.wad
 		       Ozonia .................................................. ozonia_wide.wad
 		       Pagodia ................................................. pagodia_wide.wad
+		       Perdition's Gate Resurgence ............................. pgr_wide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
@@ -186,6 +189,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version 22xx (xxx x, 2022)
+--------------------------
+- Added: Abandon, DBP 47, Perdition's Gate Resurgence
 
 Version 2205 (May 3, 2022)
 --------------------------

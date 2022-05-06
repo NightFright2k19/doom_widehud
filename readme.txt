@@ -99,7 +99,6 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
-                       JCP ..................................................... jcp_wide.wad
 	               Judgment ................................................ judgment_wide.wad
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
@@ -193,6 +192,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Abandon, DBP 47, Perdition's Gate Resurgence
+- Updated: 2048 Units of /vr/, Requiem
+- Deleted: jcp_wide.wad (not used anywhere)
 
 Version 2205 (May 3, 2022)
 --------------------------

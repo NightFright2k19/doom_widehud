@@ -45,7 +45,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        HacX .................................................... hacx_uwide.wad
                        Harmony ................................................. harm1_uwide.wad
 		       REKKR ................................................... rekkr_uwide.wad
-                       The Adventures of Square ................................ square1_uwide.wad
+                       The Adventures of Square ................................ square1_uwide.wad **
 
 		       10-Day Vacation ......................................... dbp27_wide.wad
 		       25 Years on Earth ....................................... 25yoe_wide.wad
@@ -125,7 +125,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Reverie ................................................. rev_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
                        Scythe II ............................................... scythe2_uwide.wad
-                       Shadow of the Wool Ball ................................. woolball_uwide.wad
+                       Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
                        Speed of Doom ........................................... sodfnl_uwide.wad
@@ -144,9 +144,10 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Uprising ................................................ uprising_wide.wad
                        Valiant ................................................. valiant_wide.wad
 		       Valiant: Vaccinated Edition ............................. valve_wide.wad
-                       ZBlood .................................................. zblood_uwide.wad
+                       ZBlood .................................................. zblood_uwide.wad **
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
+                       **  Statusbar in PNG format (ZDoom/GZDoom only)
 
 Additional Credits to: MG_Man (DOOM widescreen HUD)
                        ragu (ultrawide versions)
@@ -193,6 +194,7 @@ Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Abandon, DBP 47, Perdition's Gate Resurgence
 - Updated: 2048 Units of /vr/, Requiem
+- Converted from PNG to Doom GFX: Descension, Dimension of the Boomed
 - Deleted: jcp_wide.wad (not used anywhere)
 
 Version 2205 (May 3, 2022)

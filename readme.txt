@@ -29,15 +29,15 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                           "Action Doom", "Aliens TC", "Army of Darkness TC", "Batman Doom", "Chosen", 
                           "DWANGO5", "Fava Beans", "GothicDM 1+2", "Hell Revealed", "Herian 2", 
                           "Jarjar's Last Pineapple Fritter", "Odessa 14", "Polygon Base", "RTC3057", 
-                          "The Sky May Be", "The Trooper's Playground", "STRAIN"
+                          "STRAIN", "The Sky May Be", "The Trooper's Playground"
 		       6) Contributions by ragu:
 			  "A Fistful of Doom", "All Hell is Breaking Loose", "Obituary", 
                           "Japanese Community Project"
                        7) Contributions by others:
-                          "Beyond Reality", "Bloody Steel", "Descension", "Doom64 for Doom II",
-                          "JCP", "Scythe II", "UAC Ultra", "ZBlood", "2048 Units of /vr/", "Eviternity", 
-                          "Valiant", "Slaughterfest 2012", "Lullaby", "Lost Civilization", "Requiem",
-	                  "Community Chest"
+                          "2048 Units of /vr/", "Beyond Reality", "Bloody Steel", "Community Chest", 
+                          "Descension", "Doom64 for Doom II", "Eviternity", "Lost Civilization", 
+                          "Lullaby", "Scythe II", "Slaughterfest 2012", "UAC Ultra", "Valiant", 
+                          "ZBlood" 
 
                        Chex Quest 3 ............................................ chex_uwide.wad
 		       Doom/Doom II ............................................ doom_uwide.wad

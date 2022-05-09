@@ -144,7 +144,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Uprising ................................................ uprising_wide.wad
                        Valiant ................................................. valiant_wide.wad
 		       Valiant: Vaccinated Edition ............................. valve_wide.wad
-                       ZBlood .................................................. zblood_uwide.wad **
+                       ZBlood .................................................. zblood_uwide.wad
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
                        **  Statusbar in PNG format (ZDoom/GZDoom only)
@@ -194,7 +194,7 @@ Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Abandon, DBP 47, Perdition's Gate Resurgence
 - Updated: 2048 Units of /vr/, Requiem
-- Converted from PNG to Doom GFX: Descension, Dimension of the Boomed
+- Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)
 
 Version 2205 (May 3, 2022)

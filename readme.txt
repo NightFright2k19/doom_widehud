@@ -193,7 +193,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Abandon, DBP 47, Perdition's Gate Resurgence
-- Updated: 2048 Units of /vr/, Requiem
+- Updated: 2048 Units of /vr/, Dimensions of Time, Requiem
 - Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)
 

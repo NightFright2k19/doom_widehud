@@ -110,6 +110,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Mutiny .................................................. mutiny_uwide.wad
 		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
                        No End In Sight ......................................... neis_uwide.wad
+		       NOVA II: New Dawn ....................................... nova2_wide.wad
                        Obituary ................................................ obit_uwide.wad
                        Odessa14 ................................................ odss_uwide.wad
 		       Ozonia .................................................. ozonia_wide.wad
@@ -124,6 +125,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Requiem ................................................. requiem_wide.wad
                        Reverie ................................................. rev_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
+		       Sacrament ............................................... sacrament_wide.wad
                        Scythe II ............................................... scythe2_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
@@ -192,7 +194,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: Abandon, DBP 47, Perdition's Gate Resurgence
+- Added: Abandon, DBP 47, NOVA II, Perdition's Gate Resurgence, Sacrament
 - Updated: 2048 Units of /vr/, Dimensions of Time, Requiem
 - Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)

@@ -40,7 +40,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                           "ZBlood" 
 
                        Chex Quest 3 ............................................ chex_uwide.wad
-		       Doom/Doom II ............................................ doom_uwide.wad
+		       Doom/Doom II ............................................ doom_wide.wad
 		       Freedoom ................................................ freedm_uwide.wad
                        HacX .................................................... hacx_uwide.wad
                        Harmony ................................................. harm1_uwide.wad
@@ -151,8 +151,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        *   Contains additional MAPINFO/DEHACKED for ZDoom
                        **  Statusbar in PNG format (ZDoom/GZDoom only)
 
-Additional Credits to: MG_Man (DOOM widescreen HUD)
-                       ragu (ultrawide versions)
+Additional Credits to: ragu (ultrawide versions)
 
 ==============================================================================================================
 * What is included *
@@ -195,7 +194,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 22xx (xxx x, 2022)
 --------------------------
 - Added: Abandon, DBP 47, NOVA II, Perdition's Gate Resurgence, Sacrament
-- Updated: 2048 Units of /vr/, Dimensions of Time, Requiem
+- Updated: 2048 Units of /vr/, Dimensions of Time, Doom (pixel-perfect), Requiem
 - Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)
 

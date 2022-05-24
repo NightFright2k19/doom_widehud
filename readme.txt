@@ -65,6 +65,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Back to Saturn X (Ep.2) ................................. btsx2_uwide.wad
                        Batman Doom ............................................. batman_uwide.wad
                        Beyond Reality .......................................... beyondreality_uwide.wad
+                       Bloodlands .............................................. tntblood_wide.wad
                        Bloodstain .............................................. bstain_uwide.wad
                        Bloody Steel ............................................ bloodysteel_uwide.wad
                        Chosen .................................................. chosen_uwide.wad
@@ -88,6 +89,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Eternal Doom III / MAYhem 2048 .......................... etrn_uwide_fix.wad *
 		       Exomoon ................................................. exomoon_wide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
+                       Grievance ............................................... tntgrvnc_wide.wad
 		       Hadephobia .............................................. h_phobia_wide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
@@ -121,7 +123,9 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Plutonia 2 .............................................. pl2_uwide.wad
                        Plutonia Revisited ...................................... prcp_uwide.wad
                        Polygon Base ............................................ poly_uwide.wad
+                       Pursuit ................................................. tntpurst_wide.wad
                        Rage Doom ............................................... rage20_uwide_fix.wad *
+                       Reclamation ............................................. tntrecl_wide.wad
                        Requiem ................................................. requiem_wide.wad
                        Reverie ................................................. rev_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
@@ -193,7 +197,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx x, 2022)
 --------------------------
-- Added: Abandon, DBP 47, NOVA II, Perdition's Gate Resurgence, Sacrament
+- Added: Abandon, Bloodlands, DBP 47, Grievance, NOVA II, Perdition's Gate Resurgence, Pursuit, 
+         Reclamation, Sacrament
 - Updated: 2048 Units of /vr/, Dimensions of Time, Doom (pixel-perfect), Requiem
 - Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)

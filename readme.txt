@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v22xx)
-Filename             : DOOM_WIDE22xx.ZIP
+Title                : Widescreen Statusbars (v2206)
+Filename             : DOOM_WIDE2206.ZIP
 
-Release date         : 2022/xx/xx
+Release date         : 2022/06/06
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -61,6 +61,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Anomaly Report .......................................... ar_wide.wad
                        Antaresian Reliquary .................................... antareq_wide.wad
 		       Army of Darkness TC ..................................... aod_uwide.wad
+		       Avactor ................................................. avactor_wide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
                        Back to Saturn X (Ep.2) ................................. btsx2_uwide.wad
                        Batman Doom ............................................. batman_uwide.wad
@@ -195,10 +196,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 22xx (xxx x, 2022)
+Version 2206 (Jun 6, 2022)
 --------------------------
-- Added: Abandon, Bloodlands, DBP 47, Grievance, NOVA II, Perdition's Gate Resurgence, Pursuit, 
-         Reclamation, Sacrament
+- Added: Abandon, Avactor, Bloodlands, DBP 47, Grievance, NOVA II, Perdition's Gate Resurgence,
+         Pursuit, Reclamation, Sacrament
 - Updated: 2048 Units of /vr/, Dimensions of Time, Doom (pixel-perfect), Requiem
 - Converted from PNG to Doom GFX: Descension, Dimension of the Boomed, ZBlood
 - Deleted: jcp_wide.wad (not used anywhere)

@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2206)
-Filename             : DOOM_WIDE2206.ZIP
+Title                : Widescreen Statusbars (v22xx)
+Filename             : DOOM_WIDE22xx.ZIP
 
-Release date         : 2022/06/06
+Release date         : 2022/xx/xx
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -195,6 +195,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version 22xx (xxx xx, 2022)
+---------------------------
+- Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)
 --------------------------

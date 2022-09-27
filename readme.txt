@@ -72,6 +72,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Chosen .................................................. chosen_uwide.wad
                        Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
+                       Cydonia ................................................. cydonia_wide.wad
 		       DBP 47: Dreamcatcher Apparatus .......................... dbp_47_wide.wad
                        Descension .............................................. descension_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
@@ -198,6 +199,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx xx, 2022)
 ---------------------------
+- Added: Cydonia
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

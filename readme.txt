@@ -93,6 +93,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Fragport ................................................ fragport_uwide_fix.wad *
                        Grievance ............................................... tntgrvnc_wide.wad
 		       Hadephobia .............................................. h_phobia_wide.wad
+                       Harmony (Re-Release) .................................... harmony2022_wide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
@@ -199,7 +200,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx xx, 2022)
 ---------------------------
-- Added: Cydonia
+- Added: Cydonia, Harmony (Re-Release)
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

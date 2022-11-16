@@ -105,6 +105,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
 	               Judgment ................................................ judgment_wide.wad
+                       Knee-Deep in Knee-Deep in ZDoom ......................... kdikdizd_wide.wad
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
@@ -200,7 +201,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 22xx (xxx xx, 2022)
 ---------------------------
-- Added: Cydonia, Harmony (Re-Release)
+- Added: Cydonia, Harmony (Re-Release), Knee-Deep in Knee-Deep in ZDoom
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

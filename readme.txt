@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v22xx)
-Filename             : DOOM_WIDE22xx.ZIP
+Title                : Widescreen Statusbars (v23xx)
+Filename             : DOOM_WIDE23xx.ZIP
 
-Release date         : 2022/xx/xx
+Release date         : 2023/xx/xx
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -98,6 +98,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
+                       Hell on Earth Shareware ................................. hoeshrwr_wide.wad
                        Herian 2 ................................................ herian2_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
@@ -200,9 +201,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 22xx (xxx xx, 2022)
+Version 23xx (xxx xx, 2023)
 ---------------------------
-- Added: Atonement, Cydonia, Harmony (Re-Release), Knee-Deep in Knee-Deep in ZDoom
+- Added: Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
+         Knee-Deep in Knee-Deep in ZDoom
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

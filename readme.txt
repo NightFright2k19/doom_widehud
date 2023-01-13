@@ -152,6 +152,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        THT: Threnody ........................................... tht_uwide.wad
 		       TNT: Revilution ......................................... tntr_uwide.wad
                        TNT 2: Devilution ....................................... tnt2_wide.wad
+                       TNT Goes BOOM! .......................................... tntgbe3_wide.wad
                        UAC Ultra ............................................... uac-ultra_uwide.wad
                        Ultimate Torment & Torture .............................. utnt_uwide.wad
 		       Uprising ................................................ uprising_wide.wad
@@ -205,7 +206,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 23xx (xxx xx, 2023)
 ---------------------------
 - Added: Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
-         Knee-Deep in Knee-Deep in ZDoom, Machete
+         Knee-Deep in Knee-Deep in ZDoom, Machete, TNT Goes Boom!
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

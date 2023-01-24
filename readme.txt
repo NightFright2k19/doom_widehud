@@ -99,7 +99,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
-                       Herian 2 ................................................ herian2_uwide.wad
+                       Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
 		       Irkalla ................................................. irkalla_wide.wad
@@ -206,7 +206,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 23xx (xxx xx, 2023)
 ---------------------------
 - Added: Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
-         Knee-Deep in Knee-Deep in ZDoom, Machete, TNT Goes Boom!
+         Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Machete, TNT Goes Boom!
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

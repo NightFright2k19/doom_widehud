@@ -37,7 +37,14 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                           "2048 Units of /vr/", "Beyond Reality", "Bloody Steel", "Community Chest", 
                           "Descension", "Doom64 for Doom II", "Eviternity", "Lost Civilization", 
                           "Lullaby", "Scythe II", "Slaughterfest 2012", "UAC Ultra", "Valiant", 
-                          "ZBlood" 
+                          "ZBlood"
+                       8) Note: Older ports like ZDoom or LZDoom won't display these statusbars
+                                correctly since they do not support automatic centering of
+                                widescreen assets.
+                                In such cases, you could manually apply offsets to the STBAR lump
+                                embedded within the wad files by using SLADE. You can find
+                                instructions regarding this process here:
+                                https://forum.zdoom.org/viewtopic.php?p=1182079#p1182079
 
                        Chex Quest 3 ............................................ chex_uwide.wad
 		       Doom/Doom II ............................................ doom_wide.wad

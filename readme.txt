@@ -68,6 +68,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Anomaly Report .......................................... ar_wide.wad
                        Antaresian Reliquary .................................... antareq_wide.wad
 		       Army of Darkness TC ..................................... aod_uwide.wad
+                       Arrokoth ................................................ arrokoth_wide.wad
                        Atonement ............................................... atone_wide.wad
 		       Avactor ................................................. avactor_wide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
@@ -212,7 +213,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 23xx (xxx xx, 2023)
 ---------------------------
-- Added: Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
+- Added: Arrokoth, Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
          Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Machete, TNT Goes Boom!
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 

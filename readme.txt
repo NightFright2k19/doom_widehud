@@ -119,6 +119,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
                        Lullaby ................................................. lullaby_wide.wad
+		       Lunacy .................................................. lunacy_wide.wad
                        Machete ................................................. machete_wide.wad
 		       Mayan Mishap ............................................ t-maya_wide.wad
                        Memento Mori II ......................................... mm2_uwide_fix.wad *
@@ -214,7 +215,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 23xx (xxx xx, 2023)
 ---------------------------
 - Added: Arrokoth, Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
-         Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Machete, TNT Goes Boom!
+         Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Lunacy, Machete, TNT Goes Boom!
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

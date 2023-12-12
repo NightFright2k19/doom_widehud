@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v23xx)
-Filename             : DOOM_WIDE23xx.ZIP
+Title                : Widescreen Statusbars (v2312)
+Filename             : DOOM_WIDE2312.ZIP
 
-Release date         : 2023/xx/xx
+Release date         : 2023/12/12
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -163,6 +163,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        TNT 2: Devilution ....................................... tnt2_wide.wad
                        TNT Goes BOOM! .......................................... tntgbe3_wide.wad
                        UAC Ultra ............................................... uac-ultra_uwide.wad
+                       Ultimate Doom in Name Only .............................. udino_wide.wad
                        Ultimate Torment & Torture .............................. utnt_uwide.wad
 		       Uprising ................................................ uprising_wide.wad
                        Valiant ................................................. valiant_wide.wad
@@ -212,10 +213,11 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 23xx (xxx xx, 2023)
+Version 2312 (Dec 12, 2023)
 ---------------------------
 - Added: Arrokoth, Atonement, Cydonia, Harmony (Re-Release), Hell on Earth Shareware, 
-         Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Lunacy, Machete, TNT Goes Boom!
+         Herian 1+2 (wide), Knee-Deep in Knee-Deep in ZDoom, Lunacy, Machete, TNT Goes Boom!,
+         Ultimate Doom in Name Only
 - Updated: Memento Mori II (replaced MAPINFO with wrong level names with DEHACKED)
 
 Version 2206 (Jun 6, 2022)

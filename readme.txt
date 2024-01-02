@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2312)
-Filename             : DOOM_WIDE2312.ZIP
+Title                : Widescreen Statusbars (v24XX)
+Filename             : DOOM_WIDE24XX.ZIP
 
-Release date         : 2023/12/12
+Release date         : 2024/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -47,7 +47,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                                 https://forum.zdoom.org/viewtopic.php?p=1182079#p1182079
 
                        Chex Quest 3 ............................................ chex_uwide.wad
-		       Doom/Doom II ............................................ doom_wide.wad
+		       Doom/Doom II ............................................ doom_uwide.wad
 		       Freedoom ................................................ freedm_uwide.wad
                        HacX .................................................... hacx_uwide.wad
                        Harmony ................................................. harm1_uwide.wad
@@ -212,6 +212,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version 24XX (XX XX, 2024)
+--------------------------
+- Updated: Doom (replaced with ultrawide version based on Trov's release)
 
 Version 2312 (Dec 12, 2023)
 ---------------------------

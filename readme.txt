@@ -142,6 +142,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Polygon Base ............................................ poly_uwide.wad
                        Pursuit ................................................. tntpurst_wide.wad
                        Rage Doom ............................................... rage20_uwide_fix.wad *
+                       Realm of Chaos 25th Anniversary ......................... roc25_uwide.wad
                        Reclamation ............................................. tntrecl_wide.wad
                        Requiem ................................................. requiem_wide.wad
                        Reverie ................................................. rev_uwide.wad
@@ -216,7 +217,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Nostalgia 2
+- Added: Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release)
 
 Version 2312 (Dec 12, 2023)

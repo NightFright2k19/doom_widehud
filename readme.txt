@@ -128,6 +128,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Mutiny .................................................. mutiny_uwide.wad
 		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
                        No End In Sight ......................................... neis_uwide.wad
+                       Nostalgia 2 ............................................. nost2_uwide.wad
 		       NOVA II: New Dawn ....................................... nova2_wide.wad
                        Obituary ................................................ obit_uwide.wad
                        Odessa14 ................................................ odss_uwide.wad
@@ -215,6 +216,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
+- Added: Nostalgia 2
 - Updated: Doom (replaced with ultrawide version based on Trov's release)
 
 Version 2312 (Dec 12, 2023)

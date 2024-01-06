@@ -104,6 +104,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Hadephobia .............................................. h_phobia_wide.wad
                        Harmony (Re-Release) .................................... harmony2022_wide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
+                       Hell's Bane ............................................. hb_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
@@ -217,7 +218,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Nostalgia 2, Realm of Chaos 25th Anniversary
+- Added: Hell's Bane, Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release)
 
 Version 2312 (Dec 12, 2023)

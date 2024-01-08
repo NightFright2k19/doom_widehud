@@ -93,7 +93,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        GothicDM 1+2 ............................................ gdm_uwide.wad
                        Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
-		       Doom II: Flashback to Hell .............................. fth666_wide.wad    
+		       Doom II: Flashback to Hell .............................. fth666_wide.wad 
+                       Doom Classic Redux ...................................... dcr_uwide.wad   
                        Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
@@ -218,7 +219,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Hell's Bane, Nostalgia 2, Realm of Chaos 25th Anniversary
+- Added: Doom Classic Redux, Hell's Bane, Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release)
 
 Version 2312 (Dec 12, 2023)

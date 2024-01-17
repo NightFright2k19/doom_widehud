@@ -60,6 +60,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        A Fistful of Doom ....................................... fistful_uwide.wad
 		       Abandon ................................................. abandon_wide.wad
                        Action Doom ............................................. action_uwide.wad
+                       Ad Mortem ............................................... admortem_uwide.wad
                        Akeldama ................................................ akeldama_wide.wad
                        Alien Vendetta .......................................... av_uwide_fix.wad *
                        Aliens TC ............................................... aliens_uwide.wad
@@ -220,8 +221,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Hell's Bane, Nostalgia 2, 
-         Realm of Chaos 25th Anniversary
+- Added: Ad Mortem, Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Hell's Bane, 
+         Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)

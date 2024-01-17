@@ -95,7 +95,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad 
                        Doom Classic Redux ...................................... dcr_uwide.wad   
-                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *           
+                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *   
+		       Emergency Christmas ..................................... exmas_uwide.wad        
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
                        Eternal Doom III / MAYhem 2048 .......................... etrn_uwide_fix.wad *
@@ -219,8 +220,9 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Doom Classic Redux, Hell's Bane, Nostalgia 2, Realm of Chaos 25th Anniversary
-- Updated: Doom (replaced with ultrawide version based on Trov's release)
+- Added: Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Hell's Bane, Nostalgia 2, 
+         Realm of Chaos 25th Anniversary
+- Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)
 ---------------------------

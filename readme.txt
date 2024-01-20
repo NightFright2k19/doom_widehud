@@ -115,6 +115,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
 		       Irkalla ................................................. irkalla_wide.wad
+                       Jamal Jones Ep. 1: In Judgment of Evil .................. jjep1_uwide.wad
                        Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
@@ -222,7 +223,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Ad Mortem, Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Hell's Bane, 
-         Nostalgia 2, Realm of Chaos 25th Anniversary
+         Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)

@@ -110,6 +110,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Hell's Bane ............................................. hb_uwide.wad
                        Hell Revealed ........................................... hellrev_uwide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
+                       Headless Chicken ........................................ hdlschkn_uwide.wad
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
                        Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
@@ -222,8 +223,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Ad Mortem, Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Hell's Bane, 
-         Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
+- Added: Ad Mortem, Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Headless Chicken, 
+         Hell's Bane, Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)

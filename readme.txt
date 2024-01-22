@@ -93,6 +93,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Fava Beans .............................................. fava_uwide.wad
                        GothicDM 1+2 ............................................ gdm_uwide.wad
                        Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
+                       DBP13: Alien Bastards! .................................. dbp13_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad 
                        Doom Classic Redux ...................................... dcr_uwide.wad   
@@ -223,8 +224,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Ad Mortem, Doom Classic Redux, Emergency Christmas (= H2H-Xmas), Headless Chicken, 
-         Hell's Bane, Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
+- Added: Ad Mortem, Doom Classic Redux, DBP13: Alien Bastards!, Emergency Christmas (= H2H-Xmas), 
+         Headless Chicken, Hell's Bane, Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniv.
 - Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)

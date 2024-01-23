@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v24XX)
-Filename             : DOOM_WIDE24XX.ZIP
+Title                : Widescreen Statusbars (v2401)
+Filename             : DOOM_WIDE2401.ZIP
 
-Release date         : 2024/XX/XX
+Release date         : 2024/01/23
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -92,6 +92,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Dimension of the Boomed ................................. dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad
+                       Doom 2 Minus Doom ....................................... d2minusd_uwide.wad
 		       Doom64 for Doom II ...................................... d64d2_wide.wad
                        Doom Classic Redux ...................................... dcr_uwide.wad
 		       Dwango 5 ................................................ dwg5_uwide.wad
@@ -223,12 +224,12 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 24XX (XX XX, 2024)
---------------------------
-- Added: Ad Mortem, Back to Saturn X Ep.3, Doom Classic Redux, DBP13: Alien Bastards!, 
-         Emergency Christmas (= H2H-Xmas), Headless Chicken, Hell's Bane, Jamal Jones Ep.1, 
-         Nostalgia 2, Realm of Chaos 25th Anniversary
-- Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
+Version 2401 (Jan 23, 2024)
+---------------------------
+- Added: Ad Mortem, Back to Saturn X Ep.3, Doom 2 Minus Doom, Doom Classic Redux, 
+         DBP13: Alien Bastards!, Emergency Christmas (= H2H-Xmas), Headless Chicken, Hell's Bane, 
+         Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
+- Updated: Doom (replaced with ultrawide version), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)
 ---------------------------

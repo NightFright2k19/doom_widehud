@@ -74,6 +74,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Avactor ................................................. avactor_wide.wad
                        Back to Saturn X (Ep.1) ................................. btsx1_uwide.wad
                        Back to Saturn X (Ep.2) ................................. btsx2_uwide.wad
+                       Back to Saturn X (Ep.3) ................................. btsx3_uwide.wad
                        Batman Doom ............................................. batman_uwide.wad
                        Beyond Reality .......................................... beyondreality_uwide.wad
                        Bloodlands .............................................. tntblood_wide.wad
@@ -83,35 +84,35 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
-		       DBP 47: Dreamcatcher Apparatus .......................... dbp_47_wide.wad
-                       Descension .............................................. descension_uwide.wad
+		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
+                       DBP13: Alien Bastards! .................................. dbp13_uwide.wad
+		       DBP47: Dreamcatcher Apparatus ........................... dbp_47_wide.wad
+		       Descension .............................................. descension_uwide.wad
+		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
-                       Doom64 for Doom II ...................................... d64d2_wide.wad
+		       Doom II: Flashback to Hell .............................. fth666_wide.wad
+		       Doom64 for Doom II ...................................... d64d2_wide.wad
+                       Doom Classic Redux ...................................... dcr_uwide.wad
 		       Dwango 5 ................................................ dwg5_uwide.wad
-                       Eviternity .............................................. eviternity_wide.wad
-                       Fava Beans .............................................. fava_uwide.wad
-                       GothicDM 1+2 ............................................ gdm_uwide.wad
-                       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
-                       DBP13: Alien Bastards! .................................. dbp13_uwide.wad
-		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
-		       Doom II: Flashback to Hell .............................. fth666_wide.wad 
-                       Doom Classic Redux ...................................... dcr_uwide.wad   
-                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *   
+                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *    
 		       Emergency Christmas ..................................... exmas_uwide.wad        
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
                        Eternal Doom III / MAYhem 2048 .......................... etrn_uwide_fix.wad *
+		       Eviternity .............................................. eviternity_wide.wad
 		       Exomoon ................................................. exomoon_wide.wad
+                       Fava Beans .............................................. fava_uwide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
+                       GothicDM 1+2 ............................................ gdm_uwide.wad
                        Grievance ............................................... tntgrvnc_wide.wad
+                       H2H-Xmas ................................................ h2h_uwide_fix.wad *
 		       Hadephobia .............................................. h_phobia_wide.wad
                        Harmony (Re-Release) .................................... harmony2022_wide.wad
+                       Headless Chicken ........................................ hdlschkn_uwide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell's Bane ............................................. hb_uwide.wad
-                       Hell Revealed ........................................... hellrev_uwide.wad
-                       H2H-Xmas ................................................ h2h_uwide_fix.wad *
-                       Headless Chicken ........................................ hdlschkn_uwide.wad
+                       Hell Revealed ........................................... hellrev_uwide.wad   
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
                        Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
@@ -224,8 +225,9 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Ad Mortem, Doom Classic Redux, DBP13: Alien Bastards!, Emergency Christmas (= H2H-Xmas), 
-         Headless Chicken, Hell's Bane, Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniv.
+- Added: Ad Mortem, Back to Saturn X Ep.3, Doom Classic Redux, DBP13: Alien Bastards!, 
+         Emergency Christmas (= H2H-Xmas), Headless Chicken, Hell's Bane, Jamal Jones Ep.1, 
+         Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version based on Trov's release), H2H-Xmas (cleaned up)
 
 Version 2312 (Dec 12, 2023)

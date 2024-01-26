@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2401)
-Filename             : DOOM_WIDE2401.ZIP
+Title                : Widescreen Statusbars (v24XX)
+Filename             : DOOM_WIDE24XX.ZIP
 
-Release date         : 2024/01/23
+Release date         : 2024/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -54,7 +54,6 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       REKKR ................................................... rekkr_uwide.wad
                        The Adventures of Square ................................ square1_uwide.wad **
 
-		       10-Day Vacation ......................................... dbp27_wide.wad
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
                        A Fistful of Doom ....................................... fistful_uwide.wad
@@ -86,7 +85,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
-		       DBP47: Dreamcatcher Apparatus ........................... dbp_47_wide.wad
+		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
+		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
@@ -118,6 +118,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
+                       Interception II ......................................... intercep2_uwide.wad
 		       Irkalla ................................................. irkalla_wide.wad
                        Jamal Jones Ep. 1: In Judgment of Evil .................. jjep1_uwide.wad
                        Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
@@ -223,6 +224,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version 24XX (XX XX, 2024)
+--------------------------
+- Added: Interception II
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

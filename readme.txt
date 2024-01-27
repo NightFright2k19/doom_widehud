@@ -47,8 +47,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                                 https://forum.zdoom.org/viewtopic.php?p=1182079#p1182079
 
                        Chex Quest 3 ............................................ chex_uwide.wad
-		       Doom/Doom II ............................................ doom_uwide.wad
-		       Freedoom ................................................ freedm_uwide.wad
+		       Doom/Doom II ............................................ doom_uwide.wad / doom_uwide_v2.wad
+		       Freedoom ................................................ freedoom_uwide.wad / freedoom_uwide_v2.wad
                        HacX .................................................... hacx_uwide.wad
                        Harmony ................................................. harm1_uwide.wad
 		       REKKR ................................................... rekkr_uwide.wad
@@ -227,7 +227,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Interception II
+- Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
+         widescreen bar), Interception II
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

@@ -151,6 +151,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Plutonia Revisited ...................................... prcp_uwide.wad
                        Polygon Base ............................................ poly_uwide.wad
                        Pursuit ................................................. tntpurst_wide.wad
+                       PUSS XXXIII: Die Rowdy .................................. puss33_uwide.wad
                        Rage Doom ............................................... rage20_uwide_fix.wad *
                        Realm of Chaos 25th Anniversary ......................... roc25_uwide.wad
                        Reclamation ............................................. tntrecl_wide.wad
@@ -228,7 +229,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Interception II
+         widescreen bar), Interception II, PUSS XXXIII: Die Rowdy
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

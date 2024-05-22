@@ -146,6 +146,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Pagodia ................................................. pagodia_wide.wad
 		       Perdition's Gate Resurgence ............................. pgr_wide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
+                       Pirate Doom II .......................................... pd2_uwide.wad
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
                        Plutonia Revisited ...................................... prcp_uwide.wad
@@ -229,7 +230,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Interception II, PUSS XXXIII: Die Rowdy
+         widescreen bar), Interception II, Pirate Doom II, PUSS XXXIII: Die Rowdy
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

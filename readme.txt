@@ -160,6 +160,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Reverie ................................................. rev_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
 		       Sacrament ............................................... sacrament_wide.wad
+                       Scorching Earth ......................................... scorch_uwide.wad
                        Scythe II ............................................... scythe2_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
@@ -230,7 +231,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Interception II, Pirate Doom II, PUSS XXXIII: Die Rowdy
+         widescreen bar), Interception II, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

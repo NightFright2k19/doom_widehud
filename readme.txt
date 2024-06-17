@@ -35,9 +35,9 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                           "Japanese Community Project"
                        7) Contributions by others:
                           "2048 Units of /vr/", "Beyond Reality", "Bloody Steel", "Community Chest", 
-                          "Descension", "Doom64 for Doom II", "Eviternity", "Lost Civilization", 
-                          "Lullaby", "Scythe II", "Slaughterfest 2012", "UAC Ultra", "Valiant", 
-                          "ZBlood"
+                          "Descension", "Doom64 for Doom II", "Eviternity", "Hell Revealed II", 
+                          "Lost Civilization", "Lullaby", "Scythe II", "Slaughterfest 2012", 
+                          "UAC Ultra", "Valiant", "ZBlood"
                        8) Note: Older ports like ZDoom or LZDoom won't display these statusbars
                                 correctly since they do not support automatic centering of
                                 widescreen assets.
@@ -113,7 +113,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Headless Chicken ........................................ hdlschkn_uwide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
                        Hell's Bane ............................................. hb_uwide.wad
-                       Hell Revealed ........................................... hellrev_uwide.wad   
+                       Hell Revealed ........................................... hellrev_uwide.wad
+                       Hell Revealed II ........................................ hr2final_wide.wad
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
                        Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
@@ -231,7 +232,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Interception II, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
+         widescreen bar), Hell Revealed II (by George_90), Interception II, Pirate Doom II, 
+         PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

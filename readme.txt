@@ -126,6 +126,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Jarjar's Last P. Fritter ................................ jarjar_uwide.wad
                        Jenesis ................................................. jns_uwide.wad
 	               Judgment ................................................ judgment_wide.wad
+                       Judgment: Retrial ....................................... judgmentrt_wide.wad
                        Knee-Deep in Knee-Deep in ZDoom ......................... kdikdizd_wide.wad
                        Last Day on Earth ....................................... lastep1_uwide_fix.wad *
                        Lost Civilization ....................................... lostciv_wide.wad
@@ -232,8 +233,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Hell Revealed II (by George_90), Interception II, Pirate Doom II, 
-         PUSS XXXIII: Die Rowdy, Scorching Earth
+         widescreen bar), Hell Revealed II (by George_90), Interception II, Judgment: Retrial, 
+         Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

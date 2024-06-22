@@ -87,6 +87,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
+                       DBP66: Lunar Strain ..................................... dbp66_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed ................................. dotb_uwide.wad
@@ -233,8 +234,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), Hell Revealed II (by George_90), Interception II, Judgment: Retrial, 
-         Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
+         widescreen bar), DBP66: Lunar Strain, Hell Revealed II (by George_90), Interception II, 
+         Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

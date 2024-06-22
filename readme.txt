@@ -121,6 +121,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
                        Interception II ......................................... intercep2_uwide.wad
+                       Interception III ........................................ intercep3_uwide.wad
 		       Irkalla ................................................. irkalla_wide.wad
                        Jamal Jones Ep. 1: In Judgment of Evil .................. jjep1_uwide.wad
                        Japanese Community Project .............................. jpcp_uwide.wad / jpcp_kana_uwide.wad
@@ -235,7 +236,7 @@ Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
          widescreen bar), DBP66: Lunar Strain, Hell Revealed II (by George_90), Interception II, 
-         Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
+         Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

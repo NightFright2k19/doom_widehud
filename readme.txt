@@ -58,6 +58,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
                        A Fistful of Doom ....................................... fistful_uwide.wad
 		       Abandon ................................................. abandon_wide.wad
+                       Abcission ............................................... ab_uwide.wad
                        Action Doom ............................................. action_uwide.wad
                        Ad Mortem ............................................... admortem_uwide.wad
                        Akeldama ................................................ akeldama_wide.wad
@@ -234,8 +235,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored v0.11.x
-         widescreen bar), DBP66: Lunar Strain, Hell Revealed II (by George_90), Interception II, 
+- Added: Abcission, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored 
+         v0.11.x widescreen bar), DBP66: Lunar Strain, Hell Revealed II (by George_90), Interception II, 
          Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
 
 Version 2401 (Jan 23, 2024)

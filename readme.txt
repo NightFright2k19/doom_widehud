@@ -107,6 +107,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Exomoon ................................................. exomoon_wide.wad
                        Fava Beans .............................................. fava_uwide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
+                       Frozen Heart ............................................ frh_uwide.wad
                        GothicDM 1+2 ............................................ gdm_uwide.wad
                        Grievance ............................................... tntgrvnc_wide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
@@ -236,8 +237,9 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Abcission, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored 
-         v0.11.x widescreen bar), DBP66: Lunar Strain, Hell Revealed II (by George_90), Interception II, 
-         Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, Scorching Earth
+         v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
+         Interception II, Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy,
+         Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

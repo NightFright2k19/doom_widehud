@@ -61,6 +61,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Abcission ............................................... ab_uwide.wad
                        Action Doom ............................................. action_uwide.wad
                        Ad Mortem ............................................... admortem_uwide.wad
+                       Afternoon ............................................... afternoon_uwide.wad
                        Akeldama ................................................ akeldama_wide.wad
                        Alien Vendetta .......................................... av_uwide_fix.wad *
                        Aliens TC ............................................... aliens_uwide.wad
@@ -236,8 +237,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XX XX, 2024)
 --------------------------
-- Added: Abcission, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: restored 
-         v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
+- Added: Abcission, Afternoon, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: 
+         restored v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
          Interception II, Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy,
          Scorching Earth
 

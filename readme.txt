@@ -157,6 +157,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
                        Plutonia Revisited ...................................... prcp_uwide.wad
+                       Plutonic Visions ........................................ plutonic_uwide.wad
                        Polygon Base ............................................ poly_uwide.wad
                        Pursuit ................................................. tntpurst_wide.wad
                        PUSS XXXIII: Die Rowdy .................................. puss33_uwide.wad
@@ -242,8 +243,8 @@ Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Abcission, Afternoon, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: 
          restored v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
-         Interception II, Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, RRSP3,
-         Scorching Earth
+         Interception II, Interception III, Judgment: Retrial, Pirate Doom II, Plutonic Visions,
+         PUSS XXXIII: Die Rowdy, RRSP3, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------

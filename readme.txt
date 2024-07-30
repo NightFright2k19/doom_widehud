@@ -92,7 +92,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
-		       Dimension of the Boomed ................................. dotb_uwide.wad
+		       Dimension of the Boomed / Quaked in Heat / U.N.I.T. ..... dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad
                        Doom 2 Minus Doom ....................................... d2minusd_uwide.wad
@@ -165,6 +165,9 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Reclamation ............................................. tntrecl_wide.wad
                        Requiem ................................................. requiem_wide.wad
                        Reverie ................................................. rev_uwide.wad
+                       RRSP3: 2005 ............................................. 2005_uwide.wad
+                       RRSP3: Bad to the Bone .................................. badbone_uwide.wad
+                       RRSP3: Storkgreen Maps .................................. storkgreen_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
 		       Sacrament ............................................... sacrament_wide.wad
                        Scorching Earth ......................................... scorch_uwide.wad
@@ -239,7 +242,7 @@ Version 24XX (XX XX, 2024)
 --------------------------
 - Added: Abcission, Afternoon, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: 
          restored v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
-         Interception II, Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy,
+         Interception II, Interception III, Judgment: Retrial, Pirate Doom II, PUSS XXXIII: Die Rowdy, RRSP3,
          Scorching Earth
 
 Version 2401 (Jan 23, 2024)

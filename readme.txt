@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v24XX)
-Filename             : DOOM_WIDE24XX.ZIP
+Title                : Widescreen Statusbars (v2407)
+Filename             : DOOM_WIDE2407.ZIP
 
-Release date         : 2024/XX/XX
+Release date         : 2024/07/31
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -239,8 +239,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 24XX (XX XX, 2024)
---------------------------
+Version 2407 (Jul 31, 2024)
+---------------------------
 - Added: Abcission, Afternoon, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: 
          restored v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
          Interception II, Interception III, Judgment: Retrial, Pirate Doom II, Plutonic Visions,

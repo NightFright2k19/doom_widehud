@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2407)
+Title                : Widescreen Statusbars (v24XX)
 Filename             : DOOM_WIDE2407.ZIP
 
-Release date         : 2024/07/31
+Release date         : 2024/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -84,6 +84,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Chosen .................................................. chosen_uwide.wad
                        Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
+                       Curse of Blood .......................................... cob_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
@@ -238,6 +239,10 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version 24XX (XXX XX, 2024)
+---------------------------
+- Added: Curse of Blood
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

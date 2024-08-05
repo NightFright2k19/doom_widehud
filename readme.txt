@@ -162,6 +162,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Polygon Base ............................................ poly_uwide.wad
                        Pursuit ................................................. tntpurst_wide.wad
                        PUSS XXXIII: Die Rowdy .................................. puss33_uwide.wad
+                       PUSS XXXV: Summer Showdown .............................. puss35_uwide.wad
                        Rage Doom ............................................... rage20_uwide_fix.wad *
                        Realm of Chaos 25th Anniversary ......................... roc25_uwide.wad
                        Reclamation ............................................. tntrecl_wide.wad
@@ -242,7 +243,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XXX XX, 2024)
 ---------------------------
-- Added: Curse of Blood
+- Added: Curse of Blood, PUSS XXXV: Summer Showdown
 - Updated: Chex (refined borders), Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)

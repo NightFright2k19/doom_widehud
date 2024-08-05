@@ -152,7 +152,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Odessa14 ................................................ odss_uwide.wad
 		       Ozonia .................................................. ozonia_wide.wad
 		       Pagodia ................................................. pagodia_wide.wad
-		       Perdition's Gate Resurgence ............................. pgr_wide.wad
+		       Perdition's Gate Resurgence ............................. pgr_uwide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Pirate Doom II .......................................... pd2_uwide.wad
                        Playstation Doom TC ..................................... psx_wide.wad
@@ -243,7 +243,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood
-- Updated: Chex (refined borders)
+- Updated: Chex (refined borders), Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

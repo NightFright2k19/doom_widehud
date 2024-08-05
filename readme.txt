@@ -243,6 +243,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood
+- Updated: Chex (refined borders)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

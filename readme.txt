@@ -175,6 +175,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Sacrament ............................................... sacrament_wide.wad
                        Scorching Earth ......................................... scorch_uwide.wad
                        Scythe II ............................................... scythe2_uwide.wad
+                       Sepia ................................................... sepia_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
@@ -243,7 +244,7 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 
 Version 24XX (XXX XX, 2024)
 ---------------------------
-- Added: Curse of Blood, PUSS XXXV: Summer Showdown
+- Added: Curse of Blood, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), Machete (refined transitions),
            Perdition's Gate Resurgence (now ultrawide)
 

@@ -244,8 +244,8 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood, PUSS XXXV: Summer Showdown
-- Updated: Ancient Aliens (refined transitions), Chex (refined borders), Machete (refined transitions),
-           Perdition's Gate Resurgence (now ultrawide)
+- Updated: Ancient Aliens (refined transitions), Chex (refined borders), Doom v2 (based on v1, closer to Unity),
+           Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

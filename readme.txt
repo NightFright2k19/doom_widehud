@@ -94,7 +94,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
-		       Dimension of the Boomed / Quaked in Heat / U.N.I.T. ..... dotb_uwide.wad
+		       Dimension of the Boomed / Parallel Doomensions /
+                       Quaked in Heat / U.N.I.T. ............................... dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad
                        Doom 2 Minus Doom ....................................... d2minusd_uwide.wad
@@ -238,7 +239,7 @@ Build Time           : 24+ hours
 Editor(s) used       : XWE, paint.net, Bitmap Font Writer
 Known Bugs           : None
 Will Not Run With    : Vanilla/Chocolate Doom
-Tested With          : Crispy Doom, Woof!, GZDoom
+Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 
 * Changelog *

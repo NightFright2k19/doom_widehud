@@ -91,6 +91,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
+                       DBP67: Marble Hill ...................................... dbp67_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed / Quaked in Heat / U.N.I.T. ..... dotb_uwide.wad
@@ -245,8 +246,9 @@ Tested With          : Crispy Doom, Woof!, GZDoom
 Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood, PUSS XXXV: Summer Showdown, Sepia
-- Updated: Ancient Aliens (refined transitions), Chex (refined borders), Doom v2 (based on v1, closer to Unity),
-           Hacx (red laser beams), Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
+- Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
+           Doom v2 (based on v1, closer to Unity), HacX (red laser beams), Machete (refined transitions), 
+           Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

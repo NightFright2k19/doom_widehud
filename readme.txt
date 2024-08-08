@@ -247,8 +247,8 @@ Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
-           Doom v2 (based on v1, closer to Unity), HacX (red laser beams), Machete (refined transitions), 
-           Perdition's Gate Resurgence (now ultrawide)
+           Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
+           HacX (red laser beams), Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

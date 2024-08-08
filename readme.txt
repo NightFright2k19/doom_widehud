@@ -51,6 +51,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Freedoom ................................................ freedoom_uwide.wad / freedoom_uwide_v2.wad
                        HacX .................................................... hacx_uwide.wad
                        Harmony ................................................. harm1_uwide.wad
+                       Legacy of Rust .......................................... id1_uwide.wad / id1_uwide_v2.wad
 		       REKKR ................................................... rekkr_uwide.wad
                        The Adventures of Square ................................ square1_uwide.wad **
 
@@ -246,7 +247,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 24XX (XXX XX, 2024)
 ---------------------------
-- Added: Curse of Blood, PUSS XXXV: Summer Showdown, Sepia
+- Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
            Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
            HacX (red laser beams), Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)

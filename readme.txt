@@ -67,7 +67,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Alien Vendetta .......................................... av_uwide_fix.wad *
                        Aliens TC ............................................... aliens_uwide.wad
                        All Hell is Breaking Loose .............................. allhell_uwide.wad
-                       Ancient Aliens .......................................... aaliens_uwide.wad
+                       Ancient Aliens / TMC2: Thirty Aliens .................... aaliens_uwide.wad
                        Anomaly Report .......................................... ar_wide.wad
                        Antaresian Reliquary .................................... antareq_wide.wad
 		       Army of Darkness TC ..................................... aod_uwide.wad

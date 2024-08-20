@@ -117,6 +117,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Grievance ............................................... tntgrvnc_wide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
 		       Hadephobia .............................................. h_phobia_wide.wad
+		       Hard Nut to Crack ....................................... hntc_uwide.wad
                        Harmony (Re-Release) .................................... harmony2022_wide.wad
                        Headless Chicken ........................................ hdlschkn_uwide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
@@ -250,7 +251,8 @@ Version 24XX (XXX XX, 2024)
 - Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
            Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
-           HacX (red laser beams), Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
+           HacX (red laser beams), Hard Nut to Crack, Machete (refined transitions), 
+           Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

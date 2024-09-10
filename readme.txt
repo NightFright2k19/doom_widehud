@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v24XX)
-Filename             : DOOM_WIDE2407.ZIP
+Title                : Widescreen Statusbars (v2409)
+Filename             : DOOM_WIDE2409.ZIP
 
-Release date         : 2024/XX/XX
+Release date         : 2024/09/10
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -189,6 +189,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        The Adventures of Sub ................................... sub_uwide_fix.wad *
                        The Darkening Episode 1 ................................. darken_uwide_fix.wad *
                        The Darkening Episode 2 ................................. darken2_uwide_fix.wad *
+		       The Long Trek Back Home ................................. longtrek_uwide.wad
                        The Sky May Be .......................................... sky_uwide.wad
                        The Trooper's Playground ................................ ttp_uwide.wad
                        THT: Threnody ........................................... tht_uwide.wad
@@ -246,13 +247,13 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 24XX (XXX XX, 2024)
+Version 2409 (Sep 10, 2024)
 ---------------------------
 - Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
            Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
            HacX (red laser beams), Hard Nut to Crack, Machete (refined transitions), 
-           Perdition's Gate Resurgence (now ultrawide)
+           Perdition's Gate Resurgence (now ultrawide), The Long Trek Back Home
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

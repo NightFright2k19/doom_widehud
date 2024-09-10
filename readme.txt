@@ -249,11 +249,11 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 2409 (Sep 10, 2024)
 ---------------------------
-- Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
-- Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
-           Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
-           HacX (red laser beams), Hard Nut to Crack, Machete (refined transitions), 
-           Perdition's Gate Resurgence (now ultrawide), The Long Trek Back Home
+- Added: Curse of Blood, DBP67: Marble Hill, Hard Nut to Crack, Legacy of Rust, PUSS XXXV: Summer Showdown,
+         Sepia, The Long Trek Back Home
+- Updated: Ancient Aliens (refined transitions), Chex (refined borders), Doom v2 (based on v1, closer to Unity), 
+           Dimension of the Boomed (refined transitions), HacX (red laser beams), Machete (refined transitions),
+           Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

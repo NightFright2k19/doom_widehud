@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v24XX)
-Filename             : DOOM_WIDE2407.ZIP
+Title                : Widescreen Statusbars (vXXXX)
+Filename             : DOOM_WIDEXXXX.ZIP
 
-Release date         : 2024/XX/XX
+Release date         : 20XX/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -118,6 +118,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Grievance ............................................... tntgrvnc_wide.wad
                        H2H-Xmas ................................................ h2h_uwide_fix.wad *
 		       Hadephobia .............................................. h_phobia_wide.wad
+		       Hard Nut to Crack ....................................... hntc_uwide.wad
                        Harmony (Re-Release) .................................... harmony2022_wide.wad
                        Headless Chicken ........................................ hdlschkn_uwide.wad
                        Hellbound ............................................... hellbnd_uwide.wad
@@ -189,6 +190,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        The Adventures of Sub ................................... sub_uwide_fix.wad *
                        The Darkening Episode 1 ................................. darken_uwide_fix.wad *
                        The Darkening Episode 2 ................................. darken2_uwide_fix.wad *
+		       The Long Trek Back Home ................................. longtrek_uwide.wad
                        The Sky May Be .......................................... sky_uwide.wad
                        The Trooper's Playground ................................ ttp_uwide.wad
                        THT: Threnody ........................................... tht_uwide.wad
@@ -246,13 +248,17 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 24XX (XXX XX, 2024)
+Version XXXX (XXX XX, XXXX)
 ---------------------------
-- Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
-- Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
-           DBP68: Outposts of the Wasteland, Doom v2 (based on v1, closer to Unity), 
-           Dimension of the Boomed (refined transitions), HacX (red laser beams), 
-           Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
+- Added: DBP68: Outposts of the Wasteland
+
+Version 2409 (Sep 10, 2024)
+---------------------------
+- Added: Curse of Blood, DBP67: Marble Hill, Hard Nut to Crack, Legacy of Rust, PUSS XXXV: Summer Showdown,
+         Sepia, The Long Trek Back Home
+- Updated: Ancient Aliens (refined transitions), Chex (refined borders), Doom v2 (based on v1, closer to Unity), 
+           Dimension of the Boomed (refined transitions), HacX (red laser beams), Machete (refined transitions),
+           Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

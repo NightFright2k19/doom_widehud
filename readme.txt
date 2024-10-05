@@ -93,6 +93,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
+                       DBP68: Outposts of the Wasteland ........................ dbp68_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed / Parallel Doomensions /
@@ -249,8 +250,9 @@ Version 24XX (XXX XX, 2024)
 ---------------------------
 - Added: Curse of Blood, Legacy of Rust, PUSS XXXV: Summer Showdown, Sepia
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), DBP67: Marble Hill, 
-           Doom v2 (based on v1, closer to Unity), Dimension of the Boomed (refined transitions), 
-           HacX (red laser beams), Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
+           DBP68: Outposts of the Wasteland, Doom v2 (based on v1, closer to Unity), 
+           Dimension of the Boomed (refined transitions), HacX (red laser beams), 
+           Machete (refined transitions), Perdition's Gate Resurgence (now ultrawide)
 
 Version 2407 (Jul 31, 2024)
 ---------------------------

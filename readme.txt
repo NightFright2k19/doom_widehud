@@ -57,6 +57,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 
 		       25 Years on Earth ....................................... 25yoe_wide.wad
                        2048 Units of /vr/ ...................................... 2048vr_wide.wad
+		       3:33 A.M. ............................................... 333am_uwide.wad
                        A Fistful of Doom ....................................... fistful_uwide.wad
 		       Abandon ................................................. abandon_wide.wad
                        Abcission ............................................... ab_uwide.wad
@@ -250,7 +251,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, XXXX)
 ---------------------------
-- Added: DBP68: Outposts of the Wasteland
+- Added: 3:33 A.M., DBP68: Outposts of the Wasteland
 
 Version 2409 (Sep 10, 2024)
 ---------------------------

@@ -252,6 +252,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version XXXX (XXX XX, XXXX)
 ---------------------------
 - Added: 3:33 A.M., DBP68: Outposts of the Wasteland
+- Updated: Doom v2, Legacy of Rust v2
 
 Version 2409 (Sep 10, 2024)
 ---------------------------

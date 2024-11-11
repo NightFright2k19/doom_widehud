@@ -86,6 +86,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Chosen .................................................. chosen_uwide.wad
                        Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
+                       CPD ..................................................... cpd_uwide.wad
                        Curse of Blood .......................................... cob_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
@@ -251,7 +252,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, XXXX)
 ---------------------------
-- Added: 3:33 A.M., DBP68: Outposts of the Wasteland
+- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland
 - Updated: Doom, Legacy of Rust
 
 Version 2409 (Sep 10, 2024)

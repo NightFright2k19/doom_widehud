@@ -36,8 +36,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        7) Contributions by others:
                           "2048 Units of /vr/", "Beyond Reality", "Bloody Steel", "Community Chest", 
                           "Descension", "Doom64 for Doom II", "Eviternity", "Hell Revealed II", 
-                          "Lost Civilization", "Lullaby", "Scythe II", "Slaughterfest 2012", 
-                          "UAC Ultra", "Valiant", "ZBlood"
+                          "Lost Civilization", "Lullaby", "Scythe II", "Slaughterfest 2011", 
+                          "Slaughterfest 2012", "UAC Ultra", "Valiant", "ZBlood"
                        8) Note: Older ports like ZDoom or LZDoom won't display these statusbars
                                 correctly since they do not support automatic centering of
                                 widescreen assets.
@@ -185,6 +185,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Sepia ................................................... sepia_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
+                       Slaughterfest 2011 ...................................... sf2011_wide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
                        Speed of Doom ........................................... sodfnl_uwide.wad
                        STRAIN .................................................. strain_uwide.wad
@@ -252,8 +253,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, XXXX)
 ---------------------------
-- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland
-- Updated: Doom, Legacy of Rust
+- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Slaughterfest 2011 (by iddq_tea)
+- Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)
 ---------------------------

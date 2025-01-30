@@ -163,6 +163,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
                        Pirate Doom II .......................................... pd2_uwide.wad
                        Playstation Doom TC ..................................... psx_wide.wad
+                       Plerbtonia .............................................. plerbtonia_uwide.wad
                        Plutonia 2 .............................................. pl2_uwide.wad
                        Plutonia Revisited ...................................... prcp_uwide.wad
                        Plutonic Visions ........................................ plutonic_uwide.wad
@@ -253,7 +254,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, XXXX)
 ---------------------------
-- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

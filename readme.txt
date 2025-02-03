@@ -147,6 +147,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Lunacy .................................................. lunacy_wide.wad
                        Machete ................................................. machete_wide.wad
 		       Mayan Mishap ............................................ t-maya_wide.wad
+                       Mayhem 2019 / RRSP3: Bad to the Bone .................... mayhem19_uwide.wad
                        Memento Mori II ......................................... mm2_uwide_fix.wad *
 		       Monument ................................................ monument_wide.wad
 		       Moonblood ............................................... moonbld_uwide.wad
@@ -176,8 +177,6 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Reclamation ............................................. tntrecl_wide.wad
                        Requiem ................................................. requiem_wide.wad
                        Reverie ................................................. rev_uwide.wad
-                       RRSP3: 2005 ............................................. 2005_uwide.wad
-                       RRSP3: Bad to the Bone .................................. badbone_uwide.wad
                        RRSP3: Storkgreen Maps .................................. storkgreen_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
 		       Sacrament ............................................... sacrament_wide.wad
@@ -207,6 +206,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Uprising ................................................ uprising_wide.wad
                        Valiant ................................................. valiant_wide.wad
 		       Valiant: Vaccinated Edition ............................. valve_wide.wad
+		       Vanguard / RRSP3: 2005 .................................. vanguard_uwide.wad
                        ZBlood .................................................. zblood_uwide.wad
 
                        *   Contains additional MAPINFO/DEHACKED for ZDoom

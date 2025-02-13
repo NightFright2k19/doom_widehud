@@ -2,9 +2,9 @@
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
 Title                : Widescreen Statusbars (vXXXX)
-Filename             : DOOM_WIDEXXXX.ZIP
+Filename             : DOOM_WIDE25XX.ZIP
 
-Release date         : 20XX/XX/XX
+Release date         : 2025/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -155,6 +155,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
                        No End In Sight ......................................... neis_uwide.wad
                        Nostalgia 2 ............................................. nost2_uwide.wad
+                       Nostalgia Zero .......................................... nostzero_uwide.wad
 		       NOVA II: New Dawn ....................................... nova2_wide.wad
                        Obituary ................................................ obit_uwide.wad
                        Odessa14 ................................................ odss_uwide.wad
@@ -252,9 +253,9 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version XXXX (XXX XX, XXXX)
+Version 25XX (XXX XX, 2025)
 ---------------------------
-- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Nostalgia Zero, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

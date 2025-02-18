@@ -1,7 +1,7 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (vXXXX)
+Title                : Widescreen Statusbars (v25XX)
 Filename             : DOOM_WIDE25XX.ZIP
 
 Release date         : 2025/XX/XX
@@ -87,6 +87,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Community Chest 1-4 ..................................... cchest_wide.wad
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
                        CPD ..................................................... cpd_uwide.wad
+		       Cramunhão: A Sigil Tribute .............................. cramunhao_uwide.wad
                        Curse of Blood .......................................... cob_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
@@ -255,7 +256,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 25XX (XXX XX, 2025)
 ---------------------------
-- Added: 3:33 A.M., CPD, DBP68: Outposts of the Wasteland, Nostalgia Zero, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, Nostalgia Zero, Plerbtonia, 
+         Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

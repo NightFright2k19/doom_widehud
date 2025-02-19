@@ -97,6 +97,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
                        DBP68: Outposts of the Wasteland ........................ dbp68_uwide.wad
+		       DBP70: Forgotten Psychedelics ........................... dbp70_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed / Parallel Doomensions /
@@ -256,8 +257,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 25XX (XXX XX, 2025)
 ---------------------------
-- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, Nostalgia Zero, Plerbtonia, 
-         Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP70: Forgotten Psychedelics,
+         Nostalgia Zero, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

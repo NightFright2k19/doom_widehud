@@ -189,6 +189,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Sepia ................................................... sepia_uwide.wad
                        Shadow of the Wool Ball ................................. woolball_uwide.wad **
 		       Sinergy ................................................. sinergy_wide.wad
+                       Simulacrum .............................................. simulacrum_uwide.wad
                        Slaughterfest 2011 ...................................... sf2011_wide.wad
                        Slaughterfest 2012 ...................................... sf2012_wide.wad
                        Speed of Doom ........................................... sodfnl_uwide.wad
@@ -259,7 +260,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Nostalgia Zero, Plerbtonia, Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Nostalgia Zero, Plerbtonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

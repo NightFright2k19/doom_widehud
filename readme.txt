@@ -176,6 +176,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Pursuit ................................................. tntpurst_wide.wad
                        PUSS XXXIII: Die Rowdy .................................. puss33_uwide.wad
                        PUSS XXXV: Summer Showdown .............................. puss35_uwide.wad
+                       Pusstonia ............................................... pusstonia_uwide.wad
                        Rage Doom ............................................... rage20_uwide_fix.wad *
                        Realm of Chaos 25th Anniversary ......................... roc25_uwide.wad
                        Reclamation ............................................. tntrecl_wide.wad
@@ -260,7 +261,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Nostalgia Zero, Plerbtonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Nostalgia Zero, Plerbtonia, Pusstonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

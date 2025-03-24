@@ -149,6 +149,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Lullaby ................................................. lullaby_wide.wad
 		       Lunacy .................................................. lunacy_wide.wad
                        Machete ................................................. machete_wide.wad
+                       Marrowrot ............................................... marrowrt_uwide.wad
 		       Mayan Mishap ............................................ t-maya_wide.wad
                        Mayhem 2019 / RRSP3: Bad to the Bone .................... mayhem19_uwide.wad
                        Memento Mori II ......................................... mm2_uwide_fix.wad *
@@ -261,7 +262,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Nostalgia Zero, Plerbtonia, Pusstonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Marrowrot, Nostalgia Zero, Plerbtonia, Pusstonia, Simulacrum, 
+         Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

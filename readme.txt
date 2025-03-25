@@ -167,6 +167,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Pagodia ................................................. pagodia_wide.wad
 		       Perdition's Gate Resurgence ............................. pgr_uwide.wad
                        Phobos: Relive the Nightmare ............................ relive_uwide_fix.wad *
+                       Pina Colada 2 ........................................... pinacolada2_uwide.wad
                        Pirate Doom II .......................................... pd2_uwide.wad
                        Playstation Doom TC ..................................... psx_wide.wad
                        Plerbtonia .............................................. plerbtonia_uwide.wad
@@ -262,8 +263,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Marrowrot, Nostalgia Zero, Plerbtonia, Pusstonia, Simulacrum, 
-         Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Marrowrot, Nostalgia Zero, Pina Colada 2, Plerbtonia, Pusstonia, 
+         Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

@@ -189,6 +189,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        RRSP3: Storkgreen Maps .................................. storkgreen_uwide.wad
                        RTC3057 ................................................. rtc3057_uwide.wad
 		       Sacrament ............................................... sacrament_wide.wad
+                       Sandy Overhaul .......................................... so_uwide.wad
                        Scorching Earth ......................................... scorch_uwide.wad
                        Scythe II ............................................... scythe2_uwide.wad
                        Sepia ................................................... sepia_uwide.wad
@@ -266,7 +267,7 @@ Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
          DBP70: Forgotten Psychedelics, Earthless, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia,
-         Pusstonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
+         Pusstonia, Sandy Overhaul, Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

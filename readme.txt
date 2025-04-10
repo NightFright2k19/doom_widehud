@@ -109,7 +109,8 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Doom64 for Doom II ...................................... d64d2_wide.wad
                        Doom Classic Redux ...................................... dcr_uwide.wad
 		       Dwango 5 ................................................ dwg5_uwide.wad
-                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *    
+                       Dystopia 3 .............................................. dyst3_uwide_fix.wad *
+		       Earthless ............................................... earthless_uwide.wad  
 		       Emergency Christmas ..................................... exmas_uwide.wad        
                        Endless Torture ......................................... et_uwide.wad
                        Epic 2 .................................................. epic2_uwide.wad
@@ -264,8 +265,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia, Pusstonia, 
-         Simulacrum, Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Earthless, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia,
+         Pusstonia, Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

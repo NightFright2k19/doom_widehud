@@ -104,6 +104,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Dimension of the Boomed / Parallel Doomensions /
                        Quaked in Heat / U.N.I.T. ............................... dotb_uwide.wad
 		       Dimensions of Time ...................................... dot_wide.wad
+                       Don't Fear The Demons ................................... dntfeardmons_uwide.wad
 		       Doom II: Flashback to Hell .............................. fth666_wide.wad
                        Doom 2 Minus Doom ....................................... d2minusd_uwide.wad
 		       Doom64 for Doom II ...................................... d64d2_wide.wad
@@ -266,8 +267,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 Version 25XX (XXX XX, 2025)
 ---------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Earthless, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia,
-         Pusstonia, Sandy Overhaul, Simulacrum, Slaughterfest 2011 (by iddq_tea)
+         DBP70: Forgotten Psychedelics, Don't Fear The Demons, Earthless, Marrowrot, Nostalgia Zero, 
+         Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

@@ -91,6 +91,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Curse of Blood .......................................... cob_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
+                       DBP09: Legend of the Hidden Tech ........................ dbp09_uwide.wad
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
@@ -267,8 +268,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 25XX (XXX XX, 2025)
 ---------------------------
-- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP68: Outposts of the Wasteland, DBP69: Caustic Industry,
-         DBP70: Forgotten Psychedelics, Don't Fear The Demons, Earthless, Marrowrot, Nostalgia Zero, 
+- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09: Legend of the Hidden Tech, DBP68: Outposts of the Wasteland, 
+         DBP69: Caustic Industry, DBP70: Forgotten Psychedelics, Don't Fear The Demons, Earthless, Marrowrot, Nostalgia Zero, 
          Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, Skulltiverse, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 

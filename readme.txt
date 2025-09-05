@@ -94,6 +94,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP09: Legend of the Hidden Tech ........................ dbp09_uwide.wad
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
+                       DBP36: Aquatic Wonder ................................... dbp36_wide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
@@ -268,9 +269,10 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version 25XX (XXX XX, 2025)
 ---------------------------
-- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09: Legend of the Hidden Tech, DBP68: Outposts of the Wasteland, 
-         DBP69: Caustic Industry, DBP70: Forgotten Psychedelics, Don't Fear The Demons, Earthless, Marrowrot, Nostalgia Zero, 
-         Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, Skulltiverse, Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09: Legend of the Hidden Tech, DBP36: Aquatic Wonder, 
+         DBP68: Outposts of the Wasteland, DBP69: Caustic Industry, DBP70: Forgotten Psychedelics, Don't Fear The Demons, 
+         Earthless, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, 
+         Skulltiverse, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
 
 Version 2409 (Sep 10, 2024)

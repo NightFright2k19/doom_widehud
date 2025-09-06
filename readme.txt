@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v25XX)
-Filename             : DOOM_WIDE25XX.ZIP
+Title                : Widescreen Statusbars (v2509)
+Filename             : DOOM_WIDE2509.ZIP
 
-Release date         : 2025/XX/XX
+Release date         : 2025/09/06
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -135,6 +135,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Hell Revealed ........................................... hellrev_uwide.wad
                        Hell Revealed II ........................................ hr2final_wide.wad
                        Hell on Earth Shareware ................................. hoeshrwr_wide.wad
+                       Herexen ................................................. herexen_uwide.wad
                        Herian 1 + 2 ............................................ herian_wide.wad / herian_uwide.wad
                        Icarus: Alien Vanguard .................................. icar_uwide_fix.wad *
                        Interception ............................................ intercep_uwide.wad
@@ -267,13 +268,13 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 * Changelog *
 
-Version 25XX (XXX XX, 2025)
----------------------------
+Version 2509 (Sep 6, 2025)
+--------------------------
 - Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09: Legend of the Hidden Tech, DBP36: Aquatic Wonder, 
          DBP68: Outposts of the Wasteland, DBP69: Caustic Industry, DBP70: Forgotten Psychedelics, Don't Fear The Demons, 
-         Earthless, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, 
+         Earthless, Herexen, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, 
          Skulltiverse, Slaughterfest 2011 (by iddq_tea)
-- Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots)
+- Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots), Perdition's Gate Resurgence
 
 Version 2409 (Sep 10, 2024)
 ---------------------------

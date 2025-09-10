@@ -1,10 +1,10 @@
 ==============================================================================================================
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
-Title                : Widescreen Statusbars (v2509)
+Title                : Widescreen Statusbars (vXXXX)
 Filename             : DOOM_WIDE2509.ZIP
 
-Release date         : 2025/09/06
+Release date         : 202X/XX/XX
 Author               : NightFright (main author)
 
 Other files by author: Perk Smooth Weapons Enhanced
@@ -95,6 +95,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP13: Alien Bastards! .................................. dbp13_uwide.wad
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
                        DBP36: Aquatic Wonder ................................... dbp36_wide.wad
+                       DBP38: Chronicles of Ghost Town ......................... dbp38_uwide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
@@ -267,6 +268,10 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 
 * Changelog *
+
+Version XXXX (XXX XX, 202X)
+--------------------------
+- Added: DBP38: Chronicles of Ghost Town
 
 Version 2509 (Sep 6, 2025)
 --------------------------

@@ -96,6 +96,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       DBP27: 10-Day Vacation .................................. dbp27_wide.wad
                        DBP36: Aquatic Wonder ................................... dbp36_wide.wad
                        DBP38: Chronicles of Ghost Town ......................... dbp38_uwide.wad
+                       DBP42: Slime on Earth ................................... dbp42_uwide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
@@ -271,7 +272,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, 202X)
 --------------------------
-- Added: DBP38: Chronicles of Ghost Town
+- Added: DBP38: Chronicles of Ghost Town, DBP42: Slime on Earth
 
 Version 2509 (Sep 6, 2025)
 --------------------------

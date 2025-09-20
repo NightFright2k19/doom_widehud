@@ -98,11 +98,18 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        DBP38: Chronicles of Ghost Town ......................... dbp38_uwide.wad
                        DBP42: Slime on Earth ................................... dbp42_uwide.wad
 		       DBP47: Dreamcatcher Apparatus ........................... dbp47_wide.wad
+                       DBP54: Steamy Bathhouse ................................. dbp54_uwide.wad
+                       DBP57: Shatter Realm .................................... dbp57_uwide.wad
+                       DBP60: Eldritch Voyage .................................. dbp60_uwide.wad
+                       DBP61: Tempest Enterprise ............................... dbp61_uwide.wad
+                       DBP65: Sanguine Holy Land ............................... dbp65_uwide.wad
                        DBP66: Lunar Strain ..................................... dbp66_uwide.wad
                        DBP67: Marble Hill ...................................... dbp67_uwide.wad
                        DBP68: Outposts of the Wasteland ........................ dbp68_uwide.wad
 		       DBP69: Caustic Industry ................................. dbp69_uwide.wad
 		       DBP70: Forgotten Psychedelics ........................... dbp70_uwide.wad
+                       DBP71: Grief Arbiter .................................... dbp71_uwide.wad
+                       DBP73: Narcoleptic Strata ............................... dbp73_uwide.wad
 		       Descension .............................................. descension_uwide.wad
 		       Deus Vult II / Vanguard ................................. vngrd_uwide.wad
 		       Dimension of the Boomed / Parallel Doomensions /
@@ -272,19 +279,18 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, 202X)
 --------------------------
-- Added: DBP38: Chronicles of Ghost Town, DBP42: Slime on Earth
+- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73
 
 Version 2509 (Sep 6, 2025)
 --------------------------
-- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09: Legend of the Hidden Tech, DBP36: Aquatic Wonder, 
-         DBP68: Outposts of the Wasteland, DBP69: Caustic Industry, DBP70: Forgotten Psychedelics, Don't Fear The Demons, 
-         Earthless, Herexen, Marrowrot, Nostalgia Zero, Pina Colada 1+2, Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, 
-         Skulltiverse, Slaughterfest 2011 (by iddq_tea)
+- Added: 3:33 A.M., CPD, Cramunhão: A Sigil Tribute, DBP09, DBP36, DBP68, DBP69, DBP70, 
+         Don't Fear The Demons, Earthless, Herexen, Marrowrot, Nostalgia Zero, Pina Colada 1+2, 
+         Plerbtonia, Pusstonia, Sandy Overhaul, Simulacrum, Skulltiverse, Slaughterfest 2011 (by iddq_tea)
 - Updated: Doom, Legacy of Rust, Freedoom (new ammo icons from latest Github dev snapshots), Perdition's Gate Resurgence
 
 Version 2409 (Sep 10, 2024)
 ---------------------------
-- Added: Curse of Blood, DBP67: Marble Hill, Hard Nut to Crack, Legacy of Rust, PUSS XXXV: Summer Showdown,
+- Added: Curse of Blood, DBP67, Hard Nut to Crack, Legacy of Rust, PUSS XXXV: Summer Showdown,
          Sepia, The Long Trek Back Home
 - Updated: Ancient Aliens (refined transitions), Chex (refined borders), Doom v2 (based on v1, closer to Unity), 
            Dimension of the Boomed (refined transitions), HacX (red laser beams), Machete (refined transitions),
@@ -293,14 +299,14 @@ Version 2409 (Sep 10, 2024)
 Version 2407 (Jul 31, 2024)
 ---------------------------
 - Added: Abcission, Afternoon, Doom + FreeDoom variants (doom_uwide_v2: with cracks; freedoom_uwide_v2: 
-         restored v0.11.x widescreen bar), DBP66: Lunar Strain, Frozen Heart, Hell Revealed II (by George_90), 
+         restored v0.11.x widescreen bar), DBP66, Frozen Heart, Hell Revealed II (by George_90), 
          Interception II, Interception III, Judgment: Retrial, Pirate Doom II, Plutonic Visions,
          PUSS XXXIII: Die Rowdy, RRSP3, Scorching Earth
 
 Version 2401 (Jan 23, 2024)
 ---------------------------
 - Added: Ad Mortem, Back to Saturn X Ep.3, Doom 2 Minus Doom, Doom Classic Redux, 
-         DBP13: Alien Bastards!, Emergency Christmas (= H2H-Xmas), Headless Chicken, Hell's Bane, 
+         DBP13, Emergency Christmas (= H2H-Xmas), Headless Chicken, Hell's Bane, 
          Jamal Jones Ep.1, Nostalgia 2, Realm of Chaos 25th Anniversary
 - Updated: Doom (replaced with ultrawide version), H2H-Xmas (cleaned up)
 

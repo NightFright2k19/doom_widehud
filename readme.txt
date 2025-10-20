@@ -2,7 +2,7 @@
 Advanced engine needed  : Limit-removing
 ==============================================================================================================
 Title                : Widescreen Statusbars (vXXXX)
-Filename             : DOOM_WIDE2509.ZIP
+Filename             : DOOM_WIDEXXXX.ZIP
 
 Release date         : 202X/XX/XX
 Author               : NightFright (main author)
@@ -170,6 +170,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
 		       Monument ................................................ monument_wide.wad
 		       Moonblood ............................................... moonbld_uwide.wad
                        Mutiny .................................................. mutiny_uwide.wad
+                       Necromantic Thirst ...................................... nt_uwide.wad
 		       Nihility: Infinite Teeth ................................ nihility_uwide.wad
                        No End In Sight ......................................... neis_uwide.wad
                        Nostalgia 2 ............................................. nost2_uwide.wad
@@ -279,7 +280,8 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, 202X)
 --------------------------
-- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73
+- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73,
+         Necromantic Thirst
 
 Version 2509 (Sep 6, 2025)
 --------------------------

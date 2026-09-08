@@ -129,6 +129,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        Eternal Doom III / MAYhem 2048 .......................... etrn_uwide_fix.wad *
 		       Eviternity .............................................. eviternity_wide.wad
 		       Exomoon ................................................. exomoon_wide.wad
+		       Eye Juice ............................................... eyejuice_uwide.wad
                        Fava Beans .............................................. fava_uwide.wad
                        Fragport ................................................ fragport_uwide_fix.wad *
                        Frozen Heart ............................................ frh_uwide.wad
@@ -280,8 +281,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, 202X)
 --------------------------
-- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73,
-         Necromantic Thirst
+- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73, Eye Juice, Necromantic Thirst
 
 Version 2509 (Sep 6, 2025)
 --------------------------

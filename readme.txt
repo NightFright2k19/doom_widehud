@@ -88,6 +88,7 @@ Additional Info      : 1) Load these files AFTER the PWAD they are meant to be u
                        ConC.E.R.N.ed / Thy Flesh Turned Into A Draft-Excluder .. concerned_uwide.wad
                        CPD ..................................................... cpd_uwide.wad
 		       Cramunhão: A Sigil Tribute .............................. cramunhao_uwide.wad
+                       Crematomania ............................................ crematomania_uwide.wad
                        Curse of Blood .......................................... cob_uwide.wad
                        Cydonia ................................................. cydonia_wide.wad
 		       Dark7 + Mission Pack .................................... dark7_uwide_fix.wad *
@@ -281,7 +282,7 @@ Tested With          : Crispy Doom, DSDA-Doom, Woof!, GZDoom
 
 Version XXXX (XXX XX, 202X)
 --------------------------
-- Added: DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73, Eye Juice, Necromantic Thirst
+- Added: Crematomania, DBP38, DBP42, DBP54, DBP57, DBP60, DBP61, DBP65, DBP71, DBP73, Eye Juice, Necromantic Thirst
 
 Version 2509 (Sep 6, 2025)
 --------------------------
